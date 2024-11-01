@@ -1,0 +1,32 @@
+# Licence Éducative et de Protection des Données
+
+## Introduction
+Ce projet est destiné à des fins éducatives. En utilisant ce projet, vous acceptez de respecter les termes de cette licence.
+
+## 1. Permissions
+Vous êtes libre de :
+- Utiliser, copier, modifier, fusionner, publier, distribuer  sous réserve des conditions suivantes.
+
+## 2. Conditions
+- Toute distribution de ce projet doit inclure cette licence.
+- Les modifications apportées au projet doivent être clairement indiquées.
+
+## 3. Protection des Données
+Ce projet collecte des données personnelles. En utilisant ce projet, vous acceptez ce qui suit :
+- Les données collectées sont utilisées uniquement dans le cadre des objectifs éducatifs spécifiés.
+- Vous devez informer les utilisateurs de la collecte de leurs données et obtenir leur consentement.
+- Les utilisateurs disposent des droits suivants concernant leurs données personnelles :
+  - Droit d'accès
+  - Droit de rectification
+  - Droit à l'effacement
+  - Droit à la limitation du traitement
+  - Droit à la portabilité des données
+  - Droit d'opposition
+
+## 4. Aucune Garantie
+Ce projet est fourni "tel quel", sans garantie d'aucune sorte, expresse ou implicite. Les auteurs ne sauraient être tenus responsables de tout dommage résultant de l'utilisation de ce projet.
+
+## 5. Modifications
+Cette licence peut être modifiée. Les modifications seront notifiées dans le projet.
+
+
