@@ -15,5 +15,5 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés :
 
 1. Clonez le dépôt :
    ```bash
-   git clone <URL_DU_DEPOT>
-   cd nom_du_dossier
+   git clone https://github.com/karzalSlimane/datascrapperV2.git
+   cd datascrapperV2
