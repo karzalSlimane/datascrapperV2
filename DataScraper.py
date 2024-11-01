@@ -19,13 +19,13 @@ class DataScraper:
             time.sleep(2)
             donnee = {
                 "titre": self.utils.obtenir_texte_ou_nan(XPATH_TITLE),
-                "prix": self.utils.obtenir_texte_ou_nan(XPATH_PRICE),
-                "emplacement": self.utils.obtenir_texte_ou_nan(XPATH_LOCATION),
-                "type_de_vente": self.utils.obtenir_texte_ou_nan(XPATH_TYPE_DE_VENTE),
-                "salon": self.utils.obtenir_texte_ou_nan(XPATH_SALON),
+                "prix": self.utils.obtenir_texte_ou_nan(XPATH_PRICE,"Prix Non Specifié"),
+                "emplacement": self.utils.obtenir_texte_ou_nan(XPATH_LOCATION,"Emplacement Non Specifié"),
+                "type_de_vente": self.utils.obtenir_texte_ou_nan(XPATH_TYPE_DE_VENTE , "A louer"),
+                "salon": self.utils.obtenir_texte_ou_nan(XPATH_SALON,),
                 "chambre": self.utils.obtenir_texte_ou_nan(XPATH_CHAMBRE),
                 "toilette": self.utils.obtenir_texte_ou_nan(XPATH_TOILETTE),
-                "surface": self.utils.obtenir_texte_ou_nan(XPATH_SURFACE),
+                "surface": self.utils.obtenir_texte_ou_nan(XPATH_SURFACE,"SURFACE NON SPECIFIE"),
                 "lien": lien.strip()
             }
             self.donnees_appartements.append(donnee)

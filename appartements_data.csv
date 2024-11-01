@@ -1,215 +1,432 @@
 titre,prix,emplacement,type_de_vente,salon,chambre,toilette,surface,lien
-Élégant Appartement Neuf à Rabat avec Piscine,10 000 DH,Rabat,NaN,1,NaN,NaN,108,https://www.avito.ma/fr/autre_secteur/appartements/%C3%89l%C3%A9gant_Appartement_Neuf_%C3%A0_Rabat_avec_Piscine_55412951.htm
-RBA-HA-1054 - Appartement à vendre à L'Ocean,1 200 000 DH,Rabat,"Appartements, à vendre",NaN,1,1,84,https://www.avito.ma/fr/quartier_de_l'oc%C3%A9an/appartements/RBA_HA_1054___Appartement_%C3%A0_vendre_%C3%A0_L_Ocean_54936810.htm
-Bel appartement à gueliz centre,400 DH /Nuit,Marrakech,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/Bel_appartement_%C3%A0_gueliz_centre__55139714.htm
-Appartement meublé à louer 80 m² à Casablanca,7 500 DH,Casablanca,NaN,1,NaN,NaN,80,https://www.avito.ma/fr/maarif/appartements/Appartement_meubl%C3%A9_%C3%A0_louer_80_m%C2%B2_%C3%A0_Casablanca_55627155.htm
-Apt/Bon prix/Café Waw FarahEssalem Grand Boulevard,285 000 DH,Casablanca,"Appartements, à vendre",1,2,1,56,https://www.avito.ma/fr/hay_hassani/appartements/Apt_Bon_prix_Caf%C3%A9_Waw_FarahEssalem_Grand_Boulevard_55194303.htm
-Apt Ensoleillé familial Propre 4ème Étg Riad Oulfa,280 000 DH,Casablanca,"Appartements, à vendre",1,2,1,56,https://www.avito.ma/fr/oulfa/appartements/Apt_Ensoleill%C3%A9_familial_Propre_4%C3%A8me_%C3%89tg_Riad_Oulfa_55533976.htm
-locaux commerciaux de 40M2 a louer victoria,2 000 DH,Bouskoura,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/victoria/local/locaux_commerciaux_de_40M2_a__louer__victoria___55724338.htm
-Appartement 2 ch vide à louer au Parc presque neuf,4 500 DH,Mohammedia,NaN,1,NaN,NaN,81,https://www.avito.ma/fr/quartier_du_parc/appartements/Appartement_2_ch_vide_%C3%A0_louer_au_Parc_presque_neuf_55075845.htm
-Apt Ensoleillé 2Chambres 0Salon Roudani Maarif,4 000 DH,Casablanca,NaN,0,NaN,NaN,70,https://www.avito.ma/fr/centre_ville/appartements/Apt_Ensoleill%C3%A9_2Chambres_0Salon_Roudani_Maarif_55191413.htm
-Apt Investissement/Habitation CaféWaw FarahEssalem,285 000 DH,Casablanca,"Appartements, à vendre",1,2,1,56,https://www.avito.ma/fr/oulfa/appartements/Apt_Investissement_Habitation_Caf%C3%A9Waw_FarahEssalem_55194295.htm
-Jolie Appartement à vendre 131 m² à Casablanca,1 780 000 DH,Casablanca,"Appartements, à vendre",2,3,2,131,https://www.avito.ma/fr/maarif/appartements/Jolie_Appartement_%C3%A0_vendre_131_m%C2%B2_%C3%A0_Casablanca_55644011.htm
-Appartement à vendre 117 m² à Fès,800 000 DH,Fès,"Appartements, à vendre",2,3,2,117,https://www.avito.ma/fr/centre/appartements/Appartement_%C3%A0_vendre_117_m%C2%B2_%C3%A0_F%C3%A8s_55135710.htm
-Appartement de 3 chambres et salon a ain sebaa,4 500 DH,Casablanca,NaN,1,NaN,NaN,85,https://www.avito.ma/fr/ain_sebaa/appartements/Appartement_de_3_chambres_et_salon_a_ain_sebaa_55553069.htm
-spacieux appartement moulay driss 1,1 350 000 DH,Casablanca,"Appartements, à vendre",2,2,1,140,https://www.avito.ma/fr/2_mars/appartements/spacieux_appartement__moulay_driss_1_54352231.htm
-bel AptMeublé SécuriséEnsoleillé/Casa Finance City,10 000 DH,Casablanca,NaN,2,NaN,NaN,120,https://www.avito.ma/fr/beaus%C3%A9jour/appartements/bel_AptMeubl%C3%A9_S%C3%A9curis%C3%A9Ensoleill%C3%A9_Casa_Finance_City_54788388.htm
-Appartement à vendre sur l'agdal,2 150 000 DH,Rabat,"Appartements, à vendre",2,3,2,129,https://www.avito.ma/fr/agdal/appartements/Appartement_%C3%A0_vendre_sur_l_agdal_54347841.htm
-appartement en rez de chaussée,250 DH /Nuit,Asilah,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/asilah/locations_de_vacances/appartement_en_rez_de_chauss%C3%A9e_55724323.htm
-appartement 3 façade,1 300 000 DH,Casablanca,"Appartements, à vendre",2,3,3,138,https://www.avito.ma/fr/roches_noires/appartements/appartement_3_fa%C3%A7ade__53964628.htm
-Appartement hamria meublé,250 DH /Nuit,Meknès,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/hamria/locations_de_vacances/Appartement_hamria_meubl%C3%A9_27595711.htm
-Appartement 3 ch à vendre 80 m² à Bouskoura,690 000 DH,Bouskoura,"Appartements, à vendre",1,3,2,80,https://www.avito.ma/fr/bouskoura_centre/appartements/Appartement_3_ch_%C3%A0_vendre_80_m%C2%B2_%C3%A0_Bouskoura_54976383.htm
-Appartement à vendre sur Prestigia Hay Riad,3 600 000 DH,Rabat,"Appartements, à vendre",1,3,3,174,https://www.avito.ma/fr/hay_riad/appartements/Appartement_%C3%A0_vendre_sur_Prestigia_Hay_Riad_54975945.htm
-Appartement meublé à louer sur Hay Riad Prestigia,10 000 DH,Rabat,NaN,1,NaN,NaN,50,https://www.avito.ma/fr/hay_riad/appartements/Appartement_meubl%C3%A9_%C3%A0_louer_sur_Hay_Riad_Prestigia_55691069.htm
-Très bel apt meublé/Haut-Standing/Abdelmoumene,11 000 DH,Casablanca,NaN,2,NaN,NaN,120,https://www.avito.ma/fr/palmier/appartements/Tr%C3%A8s_bel_apt_meubl%C3%A9_Haut_Standing_Abdelmoumene__55193278.htm
-Apt Sécurisé/Écoles Le Cèdre/Mundiapolis,11 800 DH,Casablanca,"Appartements, à vendre",2,2,2,87,https://www.avito.ma/fr/palmier/appartements/Apt_S%C3%A9curis%C3%A9_%C3%89coles_Le_C%C3%A8dre_Mundiapolis_55561307.htm
-Appartement cournich malabata tanger,300 DH /Nuit,Tanger,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/malabata/locations_de_vacances/Appartement_cournich_malabata_tanger__55218196.htm
-Apt PresqueNeuf Rez-deChaussée CaféTwin AzharOulfa,380 000 DH,Casablanca,"Appartements, à vendre",1,2,1,56,https://www.avito.ma/fr/oulfa/appartements/Apt_PresqueNeuf_Rez_deChauss%C3%A9e_Caf%C3%A9Twin_AzharOulfa_54887425.htm
-Appartement bureau à louer sur l'Agdal,12 000 DH,Rabat,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/agdal/bureaux/Appartement_bureau_%C3%A0_louer_sur_l_Agdal_55673964.htm
-Appartement à louer 77 m² à Zenata,3 500 DH,Zenata,NaN,1,NaN,NaN,77,https://www.avito.ma/fr/zenata/appartements/Appartement_%C3%A0_louer_77_m%C2%B2_%C3%A0_Zenata_55453005.htm
-Appartement à louer à Tanger,300 DH,Tanger,NaN,1,NaN,NaN,90,https://www.avito.ma/fr/autre_secteur/appartements/Appartement_%C3%A0_louer_%C3%A0_Tanger_55606989.htm
-sublime appartement sur agdal,699 DH /Nuit,Rabat,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/agdal/locations_de_vacances/sublime_appartement_sur_agdal_54222732.htm
-Appartement à vendre 117 m² à Agadir,1 700 000 DH,Agadir,"Appartements, à vendre",2,2,2,117,https://www.avito.ma/fr/haut_founty/appartements/Appartement_%C3%A0_vendre_117_m%C2%B2_%C3%A0_Agadir_54214470.htm
-Appartement location de vacances à Casablanca,500 DH /Nuit,Casablanca,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/maarif/locations_de_vacances/Appartement_location_de_vacances_%C3%A0_Casablanca_54166786.htm
-belle grande appartement,460 000 DH,Mohammedia,"Appartements, à vendre",3,3,2,70,https://www.avito.ma/fr/centre_ville/appartements/belle_grande_appartement__55546936.htm
-Propre appartement familiale,500 DH /Nuit,Marrakech,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/vi/55689026.htm
-appartement meuble a vendre quartier moudjahidine,2 400 000 DH,Tanger,"Appartements, à vendre",1,3,2,161,https://www.avito.ma/vi/54862695.htm
-Jolie appartement a louer à islan,300 DH /Nuit,Agadir,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/hay_mohammadi/locations_de_vacances/Jolie_appartement_a_louer_%C3%A0_islan__54939597.htm
-Appartement à vendre 67 m² à Mehdia,700 000 DH,Mehdia,"Appartements, à vendre",1,1,1,67,https://www.avito.ma/fr/mehdia/appartements/Appartement_%C3%A0_vendre_67_m%C2%B2_%C3%A0_Mehdia_55724306.htm
-Apt Sécurisé 3Ch/160M 2Places Parking Inwi 2Mars,8 000 DH,Casablanca,NaN,2,NaN,NaN,160,https://www.avito.ma/fr/centre_ville/appartements/Apt_S%C3%A9curis%C3%A9_3Ch_160M_2Places_Parking_Inwi_2Mars_55137991.htm
-Magnifique appartement à louer,9 500 DH,Casablanca,NaN,1,NaN,NaN,90,https://www.avito.ma/fr/oasis/appartements/Magnifique_appartement_%C3%A0_louer__55600259.htm
-Appartement location de vacances d'Asilah,800 DH /Nuit,Asilah,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/asilah/locations_de_vacances/_Appartement_location_de_vacances_d_Asilah_54775793.htm
-LUXE APPARTEMENT,220 DH /Nuit,Agadir,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/hay_dakhla/locations_de_vacances/LUXE_APPARTEMENT__54918164.htm
-Appartement à louer sur Hay Riad,13 000 DH,Rabat,NaN,2,NaN,NaN,180,https://www.avito.ma/fr/hay_riad/appartements/Appartement_%C3%A0_louer_sur_Hay_Riad_55557971.htm
-شقة مطلة على البحر وسط المدينة بدون سمسار,500 DH /Nuit,Tanger,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/malabata/locations_de_vacances/%D8%B4%D9%82%D8%A9_%D9%85%D8%B7%D9%84%D8%A9_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1_%D9%88%D8%B3%D8%B7_%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A8%D8%AF%D9%88%D9%86_%D8%B3%D9%85%D8%B3%D8%A7%D8%B1__54450439.htm
-Appartement,NaN,Fès,"Appartements, à vendre",1,NaN,NaN,83,https://www.avito.ma/fr/hay_saada/appartements/Appartement__54697653.htm
-Appartement 86 m² à Bouskoura Odyssia,860 000 DH,Bouskoura,"Appartements, à vendre",2,2,2,86,https://www.avito.ma/fr/bouskoura_centre/appartements/Appartement__86_m%C2%B2_%C3%A0_Bouskoura_Odyssia_49763194.htm
-Appartement vue sur piscine et mer,400 DH /Nuit,El Mansouria,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/el_mansouria/locations_de_vacances/Appartement_vue_sur_piscine_et_mer_55221314.htm
-Appartement à vendre 86 m² à Casablanca Oasis,1 690 000 DH,Casablanca,"Appartements, à vendre",1,2,2,86,https://www.avito.ma/fr/oasis/appartements/Appartement_%C3%A0_vendre_86_m%C2%B2_%C3%A0_Casablanca_Oasis_54644997.htm
-Charmant appart. avec terrasse privative Agdal,NaN,Rabat,"Appartements, à vendre",NaN,NaN,NaN,91,https://www.avito.ma/fr/agdal/appartements/Charmant_appart__avec_terrasse_privative__Agdal__55711874.htm
-Vente Appartement 7 pièces de 250 m2 à Casablanca,3 300 000 DH,Casablanca,"Appartements, à vendre",NaN,4,3,250,https://www.avito.ma/fr/val_fleuri/appartements/Vente_Appartement_7_pi%C3%A8ces_de_250_m2_%C3%A0_Casablanca_55724285.htm
-Appartement ensoleillé 80 m² à Beausejour Tramway,3 800 DH,Casablanca,NaN,1,NaN,NaN,80,https://www.avito.ma/fr/beaus%C3%A9jour/appartements/Appartement_ensoleill%C3%A9_80_m%C2%B2_%C3%A0_Beausejour_Tramway_55724283.htm
-Appartement n9iya a essouira center vill,200 DH /Nuit,Essaouira,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/centre_ville/locations_de_vacances/Appartement_n9iya_a_essouira_center_vill__55724280.htm
-Appartement à vendre 120 m² Centre ville,NaN,Agadir,"Appartements, à vendre",1,NaN,NaN,120,https://www.avito.ma/fr/centre_ville/appartements/Appartement_%C3%A0_vendre_120_m%C2%B2_Centre_ville_55568330.htm
-Appartement à vendre 103m² victoria à Bouskoura,9 000 DH,Bouskoura,"Appartements, à vendre",2,3,2,103,https://www.avito.ma/fr/victoria/appartements/Appartement_%C3%A0_vendre_103m%C2%B2_victoria_%C3%A0_Bouskoura_55724277.htm
-Appartement à vendre 64 m² à Casablanca,8 500 DH,Casablanca,"Appartements, à vendre",NaN,2,NaN,64,https://www.avito.ma/fr/sidi_bernoussi/appartements/Appartement_%C3%A0_vendre_64_m%C2%B2_%C3%A0_Casablanca_37621456.htm
-Appartement à louer 146 m² à Casablanca,9 800 DH,Casablanca,NaN,2,NaN,NaN,146,https://www.avito.ma/fr/maarif/appartements/Appartement_%C3%A0_louer_146_m%C2%B2_%C3%A0_Casablanca_55724275.htm
-Appartement à louer 40 m² à Casablanca,5 500 DH,Casablanca,NaN,0,NaN,NaN,40,https://www.avito.ma/fr/2_mars/appartements/Appartement_%C3%A0_louer_40_m%C2%B2_%C3%A0_Casablanca_55706003.htm
-Apparte à louer diour jamaa,5 500 DH,Rabat,NaN,1,NaN,NaN,90,https://www.avito.ma/fr/diour_jamaa/appartements/Apparte_%C3%A0_louer_diour_jamaa__55724270.htm
-RBA-HA-1076 - Appartement à vendre à Hassan,1 500 000 DH,Rabat,"Appartements, à vendre",NaN,2,1,110,https://www.avito.ma/fr/hassan/appartements/RBA_HA_1076___Appartement_%C3%A0_vendre_%C3%A0_Hassan_55151566.htm
-CMN-MA-1473 - Appartement à vendre à Maârif,900 000 DH,Casablanca,"Appartements, à vendre",NaN,1,1,53,https://www.avito.ma/fr/ma%C3%A2rif_extension/appartements/CMN_MA_1473___Appartement_%C3%A0_vendre_%C3%A0_Ma%C3%A2rif_54916665.htm
-Appartement à vendre 59 m² à Deroua,280 000 DH,Deroua,"Appartements, à vendre",1,2,1,59,https://www.avito.ma/fr/deroua/appartements/Appartement_%C3%A0_vendre_59_m%C2%B2_%C3%A0_Deroua_55724261.htm
-Dar 122m meublés wifi 2chambres,200 DH /Nuit,Fès,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/al_hadiqa/locations_de_vacances/Dar_122m_meubl%C3%A9s_wifi_2chambres__49776528.htm
-belle appart vide 1etag 3ch 90m2 sur wafa,3 300 DH,Mohammedia,NaN,1,NaN,NaN,90,https://www.avito.ma/fr/centre_ville/appartements/belle_appart_vide_1etag_3ch_90m2_sur_wafa_55602970.htm
-Appartement meublé 3 chambre à louer à Kénitra,6 000 DH,القنيطرة,NaN,2,NaN,NaN,120,https://www.avito.ma/fr/centre/appartements/Appartement_meubl%C3%A9_3_chambre_%C3%A0_louer_%C3%A0_K%C3%A9nitra_55364927.htm
-Appartement à vendre 115 m² à Casablanca,1 700 000 DH,Casablanca,"Appartements, à vendre",2,3,3,115,https://www.avito.ma/fr/maarif/appartements/Appartement_%C3%A0_vendre_115_m%C2%B2_%C3%A0_Casablanca_55471363.htm
-Appartement à vendre à Marina Golf Asilah,620 000 DH,Asilah,"Appartements, à vendre",1,1,1,52,https://www.avito.ma/fr/asilah/appartements/Appartement_%C3%A0_vendre_%C3%A0_Marina_Golf_Asilah__55565345.htm
-Appartement à vendre 40 m² à Casablanca,780 000 DH,Casablanca,"Appartements, à vendre",1,1,1,40,https://www.avito.ma/fr/bourgogne/appartements/Appartement_%C3%A0_vendre_40_m%C2%B2_%C3%A0_Casablanca_54767502.htm
-Appartement 170 m² à Casablanca,NaN,Casablanca,"Appartements, à vendre",1,NaN,NaN,170,https://www.avito.ma/fr/californie/appartements/Appartement_170_m%C2%B2_%C3%A0_Casablanca_54643715.htm
-appartement 130m² à Hayriad envente,2 240 000 DH,Rabat,"Appartements, à vendre",1,3,2,116,https://www.avito.ma/fr/hay_riad/appartements/appartement_130m%C2%B2_%C3%A0_Hayriad_envente__55453631.htm
-Appartement à vendre 94 m² à Marrakech,NaN,Marrakech,"Appartements, à vendre",1,NaN,NaN,83,https://www.avito.ma/fr/route_de_casablanca/appartements/Appartement_%C3%A0_vendre_94_m%C2%B2_%C3%A0_Marrakech_54614980.htm
-Résidence Premium à Kénitra,850 000 DH,Kénitra,"Appartements, à vendre",1,2,2,80,https://www.avito.ma/fr/autre_secteur/appartements/R%C3%A9sidence_Premium_%C3%A0_K%C3%A9nitra_52157216.htm
-Joli appartement à louer (non meublé),13 000 DH,Casablanca,NaN,1,NaN,NaN,160,https://www.avito.ma/vi/55541761.htm
-Charmant Appartement a Maârif,500 DH /Nuit,Casablanca,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/vi/54166672.htm
-JOLI APPARTEMENT MEUBLE,12 500 DH,Rabat,NaN,1,NaN,NaN,92,https://www.avito.ma/fr/agdal/appartements/_JOLI_APPARTEMENT_MEUBLE_55177523.htm
-Appartement chambre salon centre de Guiliz,600 DH /Nuit,Marrakech,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/Appartement_chambre_salon_centre_de_Guiliz__55594413.htm
-appartement de luxe meublé a louer,9 500 DH,Casablanca,NaN,1,NaN,NaN,80,https://www.avito.ma/fr/ferme_bretone/appartements/appartement_de_luxe_meubl%C3%A9_a_louer_55627994.htm
-Appartement à vendre 43 m² à Casablanca,1 000 000 DH,Casablanca,"Appartements, à vendre",1,1,1,43,https://www.avito.ma/fr/les_princesses/appartements/Appartement_%C3%A0_vendre_43_m%C2%B2_%C3%A0_Casablanca_55669969.htm
-Appartement 80m A Sidi Maarouf Côte Mc Donalds,4 000 DH,Casablanca,NaN,1,NaN,NaN,80,https://www.avito.ma/fr/sidi_maarouf/appartements/Appartement_80m_A_Sidi_Maarouf_C%C3%B4te_Mc_Donalds__55645689.htm
-Luxe moderne Appartement exclusif à Témara Rabat,600 DH /Nuit,Temara,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/centre_ville/locations_de_vacances/Luxe_moderne_Appartement_exclusif_%C3%A0__T%C3%A9mara_Rabat__55713827.htm
-Appartement avec Vue Mer et Piscine,8 000 DH,El Mansouria,NaN,1,NaN,NaN,82,https://www.avito.ma/fr/el_mansouria/appartements/Appartement_avec_Vue_Mer_et_Piscine_55660055.htm
-Appartement meublé 1 er etage,250 DH /Nuit,Nador,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/centre_ville/locations_de_vacances/Appartement_meubl%C3%A9_1_er_etage_55495747.htm
-Appartement meublé résidence sécurisée piscine,4 500 DH,Mohammedia,NaN,1,NaN,NaN,90,https://www.avito.ma/fr/autre_secteur/appartements/Appartement__meubl%C3%A9_r%C3%A9sidence_s%C3%A9curis%C3%A9e_piscine__55452365.htm
-Appartement à louer 220 m² à Rabat,14 000 DH,Rabat,NaN,2,NaN,NaN,220,https://www.avito.ma/fr/haut_agdal/appartements/Appartement_%C3%A0_louer_220_m%C2%B2_%C3%A0_Rabat_55558282.htm
-Appartement à louer 110 m² à Fès,4 800 DH,Fès,NaN,2,NaN,NaN,110,https://www.avito.ma/fr/centre/appartements/Appartement_%C3%A0_louer_110_m%C2%B2_%C3%A0_F%C3%A8s_55696791.htm
-appartement à louer résidence à mehdia,900 DH /Nuit,Mehdia,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/mehdia/locations_de_vacances/appartement__%C3%A0_louer_r%C3%A9sidence_%C3%A0_mehdia_54795484.htm
-Appartement meublé à vendre à Hay Mohammadi Agadir,740 000 DH,Agadir,"Appartements, à vendre",1,2,1,NaN,https://www.avito.ma/fr/hay_mohammadi/appartements/Appartement_meubl%C3%A9_%C3%A0_vendre_%C3%A0_Hay_Mohammadi_Agadir_55679717.htm
-Appartement meublé résidence Oisis piscine,4 500 DH,Mohammedia,NaN,1,NaN,NaN,70,https://www.avito.ma/fr/mimosas/appartements/Appartement__meubl%C3%A9_r%C3%A9sidence_Oisis_piscine__55668290.htm
-Appartement avec terrasse à vendre a Kénitra,1 280 000 DH,Kénitra,"Appartements, à vendre",2,3,2,134,https://www.avito.ma/fr/maamora/appartements/Appartement_avec_terrasse_%C3%A0_vendre_a_K%C3%A9nitra_54610046.htm
-appart familial sans intermédiaire climatisé,300 DH /Nuit,Tanger,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/marjane/locations_de_vacances/appart_familial_sans_interm%C3%A9diaire_climatis%C3%A9_54131212.htm
-3 Appartement bien équipé familiale,200 DH /Nuit,Oujda,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/hay_zitoune/locations_de_vacances/3_Appartement_bien_%C3%A9quip%C3%A9_familiale__38756008.htm
-70m2 LUXE terrasse ARRIBAT CENTER AGDAL,880 DH /Nuit,Rabat,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/agdal/locations_de_vacances/70m2_LUXE_terrasse_ARRIBAT_CENTER_AGDAL_53302319.htm
-Appartement à vendre 43 m² à Marrakech,1 075 000 DH,Marrakech,"Appartements, à vendre",1,2,1,43,https://www.avito.ma/fr/majorelle/appartements/Appartement_%C3%A0_vendre_43_m%C2%B2_%C3%A0_Marrakech_55672365.htm
-Appartement à vendre 94 m² à Casablanca,750 000 DH,Casablanca,"Appartements, à vendre",1,3,2,94,https://www.avito.ma/fr/sidi_bernoussi/appartements/Appartement_%C3%A0_vendre_94_m%C2%B2_%C3%A0_Casablanca_55613938.htm
-Appartement 118 M² à vendre Quartier les crêtes,1 600 000 DH,Casablanca,"Appartements, à vendre",1,3,2,118,https://www.avito.ma/fr/a%C3%AFn_chock/appartements/Appartement_118_M%C2%B2_%C3%A0_vendre_Quartier_les_cr%C3%AAtes___55540306.htm
-appartement meuble a vendre quartier moudjahidine,2 400 000 DH,Tanger,"Appartements, à vendre",1,3,2,161,https://www.avito.ma/fr/moujahidine/appartements/appartement_meuble_a_vendre_quartier_moudjahidine__54862695.htm
-Appartement meublé Mansbay piscine sécurisée,5 000 DH,Mohammedia,NaN,2,NaN,NaN,90,https://www.avito.ma/fr/mimosas/appartements/Appartement_meubl%C3%A9_Mansbay_piscine_s%C3%A9curis%C3%A9e__55477261.htm
-bel appartement de Tanger corniche,450 DH /Nuit,Tanger,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/malabata/locations_de_vacances/bel_appartement_de_Tanger_corniche__55578883.htm
-Appartement à vendre 108 m² à GUÉLIZ,1 120 000 DH,Marrakech,"Appartements, à vendre",1,2,2,108,https://www.avito.ma/fr/gu%C3%A9liz/appartements/Appartement_%C3%A0_vendre_108_m%C2%B2_%C3%A0_GU%C3%89LIZ_55724227.htm
-appartement neuf marjan 2 chambres,750 000 DH,Tanger,"Appartements, à vendre",1,2,2,70,https://www.avito.ma/fr/marjane/appartements/appartement_neuf_marjan_2_chambres_55340066.htm
-Appartement dans le centre de Casablanca,350 DH /Nuit,Casablanca,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/centre_ville/locations_de_vacances/Appartement_dans_le_centre_de_Casablanca__54855821.htm
-Appartement standing ibn badis,NaN,El Jadida,"Appartements, à vendre",2,NaN,NaN,120,https://www.avito.ma/fr/centre/appartements/Appartement_standing_ibn_badis_55292923.htm
-Porte Blindée Gros et Détail,3 200 DH,Bouznika,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/hamza/porte_et_fen%C3%AAtre/Porte_Blind%C3%A9e_Gros_et_D%C3%A9tail_40436946.htm
-Appartement à vendre à hay Lamknsa à Casablanca,470 000 DH,Casablanca,"Appartements, à vendre",1,2,1,51,https://www.avito.ma/fr/a%C3%AFn_chock/appartements/Appartement_%C3%A0_vendre_%C3%A0_hay_Lamknsa_%C3%A0_Casablanca_55603063.htm
-3 chambres - Vue sur le golf et la piscine,1 100 DH /Nuit,Marrakech,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/av_mohammed_vi/locations_de_vacances/3_chambres___Vue_sur_le_golf_et_la_piscine_55322447.htm
-Appartement à vendre 128 m² à Marrakech,11 500 DH,Marrakech,"Appartements, à vendre",1,2,2,128,https://www.avito.ma/fr/gu%C3%A9liz/appartements/Appartement_%C3%A0_vendre_128_m%C2%B2_%C3%A0_Marrakech_55635415.htm
-Appart 3 chambres 3 SDB face ville verte ODYSSIA,1 280 000 DH,Casablanca,"Appartements, à vendre",1,3,3,132,https://www.avito.ma/fr/sidi_maarouf/appartements/Appart_3_chambres_3_SDB_face_ville_verte_ODYSSIA_51634164.htm
-Appartement meublé Rés. Marine Royale piscine,6 500 DH,Mohammedia,NaN,2,NaN,NaN,100,https://www.avito.ma/fr/mimosas/appartements/Appartement_meubl%C3%A9_R%C3%A9s__Marine_Royale_piscine__55685461.htm
-Sidi Rahal Porte blindée villa,NaN,Sidi Rahal,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/sidi_rahal/porte_et_fen%C3%AAtre/Sidi_Rahal_Porte_blind%C3%A9e_villa_50987555.htm
-Appartement à vendre 125 m² à Casablanca,9 900 DH,Casablanca,"Appartements, à vendre",2,2,2,125,https://www.avito.ma/vi/53475566.htm
-Porte blindee villa haute gamme,NaN,Casablanca,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/vi/54090741.htm
-Appartement vacances avec piscine Fès,NaN,Fès,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/route_ain_chkaf/locations_de_vacances/Appartement_vacances_avec_piscine_F%C3%A8s_54834995.htm
-Porte blindée villa,NaN,Rabat,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/agdal/porte_et_fen%C3%AAtre/Porte_blind%C3%A9e_villa_38709116.htm
-Appartement meublée pour location,350 DH /Nuit,Marrakech,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/allal_el_fassi/locations_de_vacances/Appartement_meubl%C3%A9e_pour_location__55625984.htm
-Appartement meublé de 176 m² à louer Souissi Rabat,NaN,Rabat,NaN,1,NaN,NaN,176,https://www.avito.ma/fr/souissi/appartements/Appartement_meubl%C3%A9_de_176_m%C2%B2_%C3%A0_louer_Souissi_Rabat_55651294.htm
-joli studio en location journalière,599 DH /Nuit,Rabat,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/agdal/locations_de_vacances/joli_studio_en_location_journali%C3%A8re__54222772.htm
-Appartement meublé résidence Kawtar piscines,4 000 DH,Mohammedia,NaN,1,NaN,NaN,65,https://www.avito.ma/fr/mimosas/appartements/Appartement_meubl%C3%A9_r%C3%A9sidence_Kawtar_piscines__55579212.htm
-Interessante Appartement à vendre à Agadir,1 340 000 DH,Agadir,"Appartements, à vendre",1,3,2,NaN,https://www.avito.ma/fr/av_des_far/appartements/Interessante_Appartement_%C3%A0_vendre_%C3%A0_Agadir_55692590.htm
-"Appart à Allal Fassi, 5min de Gueliz,WiFi Netflix",330 DH /Nuit,Marrakech,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/allal_el_fassi/locations_de_vacances/Appart__%C3%A0_Allal_Fassi__5min_de_Gueliz_WiFi_Netflix_55724228.htm
-Appartement 109 m² à Bourgogne BOUL BOURGOUN,1 000 000 DH,Casablanca,"Appartements, à vendre",2,3,1,100,https://www.avito.ma/fr/bourgogne/appartements/Appartement_109_m%C2%B2_%C3%A0_Bourgogne_BOUL_BOURGOUN_55682958.htm
-Portes blindées villas,NaN,Casablanca,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/sidi_maarouf/porte_et_fen%C3%AAtre/Portes_blind%C3%A9es_villas_55045578.htm
-Appartement meublé au centre de Rabat,7 800 DH,Rabat,NaN,1,NaN,NaN,54,https://www.avito.ma/fr/agdal/appartements/Appartement_meubl%C3%A9_au_centre_de_Rabat_55696814.htm
-Magnifique Appartment Vue sur Golf,22 000 DH,Bouskoura,NaN,3,NaN,NaN,219,https://www.avito.ma/fr/ville_verte/appartements/Magnifique_Appartment_Vue_sur_Golf_55696585.htm
-JOLI Appartement meublé à Californie,6 500 DH,Casablanca,NaN,1,NaN,NaN,90,https://www.avito.ma/fr/californie/appartements/JOLI_Appartement_meubl%C3%A9_%C3%A0_Californie_55559753.htm
-Appartement de luxe 88 m² à Ain sbaa,1 012 000 DH,Casablanca,"Appartements, à vendre",2,2,2,88,https://www.avito.ma/fr/ain_sebaa/appartements/Appartement_de_luxe_88_m%C2%B2_%C3%A0_Ain_sbaa_55413838.htm
-Appartement trois chambres à louer,4 500 DH,Rabat,NaN,2,NaN,NaN,137,https://www.avito.ma/fr/diour_jamaa/appartements/Appartement_trois_chambres_%C3%A0_louer__55708074.htm
-Bel Appartement de 83 m² près de Tachfine Centre,860 000 DH,Casablanca,"Appartements, à vendre",1,2,1,83,https://www.avito.ma/fr/belv%C3%A9d%C3%A8re/appartements/Bel_Appartement_de_83_m%C2%B2_pr%C3%A8s_de_Tachfine_Centre__55671116.htm
-Très belle et moderne e appart à fes,250 DH /Nuit,Fès,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/agdal/locations_de_vacances/Tr%C3%A8s_belle_et_moderne_e_appart_%C3%A0_fes__53606039.htm
-Appartement à vendre 160 m² à Fès,960 000 DH,Fès,"Appartements, à vendre",1,3,2,160,https://www.avito.ma/fr/oued_f%C3%A8s/appartements/Appartement_%C3%A0_vendre_160_m%C2%B2_%C3%A0_F%C3%A8s_55703706.htm
-appartement a louer avec wifi a centre ville mdiq,150 DH /Nuit,Mdiq,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/mdiq/locations_de_vacances/appartement_a_louer_avec_wifi_a_centre_ville_mdiq__50088278.htm
-Appartement à louer à Ola Blanca 1,400 DH /Nuit,Sidi Rahal,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/sidi_rahal/locations_de_vacances/Appartement_%C3%A0_louer_%C3%A0_Ola_Blanca_1_53972097.htm
-APPARTEMENT NEUF DE 107M² À SOKNA WA TAAMIR,1 140 000 DH,Tétouan,"Appartements, à vendre",1,2,2,107,https://www.avito.ma/fr/autre_secteur/appartements/APPARTEMENT_NEUF_DE_107M%C2%B2_%C3%80_SOKNA_WA_TAAMIR_54885326.htm
-Appartement à louer 90M² à victoria Bouskoura,4 500 DH,Bouskoura,NaN,1,NaN,NaN,90,https://www.avito.ma/fr/victoria/appartements/Appartement_%C3%A0_louer_90M%C2%B2_%C3%A0_victoria_Bouskoura_55724225.htm
-Jolie appartement pres de la plage,400 DH /Nuit,Rabat,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/autre_secteur/locations_de_vacances/Jolie_appartement_pres_de_la_plage_55607134.htm
-Appartement à vendre 55 m² à Casablanca,1 300 000 DH,Casablanca,"Appartements, à vendre",1,1,1,55,https://www.avito.ma/fr/maarif/appartements/Appartement_%C3%A0_vendre_55_m%C2%B2_%C3%A0_Casablanca_55669975.htm
-Porte blindée Errahma,3 200 DH,Casablanca,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/oulfa/porte_et_fen%C3%AAtre/Porte_blind%C3%A9e_Errahma_43099848.htm
-Luxe appartement o centre,500 DH /Nuit,Mohammedia,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/centre_ville/locations_de_vacances/Luxe_appartement_o_centre__52367880.htm
-appartement meublé luxe nice location vacances,199 DH /Nuit,Tanger,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/malabata/locations_de_vacances/appartement_meubl%C3%A9_luxe_nice__location_vacances__54879997.htm
-Appartement à vendre 122 m² à Salé,1 500 000 DH,Salé,"Appartements, à vendre",1,3,2,122,https://www.avito.ma/fr/tabriquet/appartements/Appartement_%C3%A0_vendre_122_m%C2%B2_%C3%A0_Sal%C3%A9_55342074.htm
-appartement pres zara macdo gueliz wifi,400 DH /Nuit,Marrakech,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/appartement_pres_zara_macdo_gueliz_wifi_55652161.htm
-appartement 3 chambres salon,5 000 DH,Casablanca,NaN,1,NaN,NaN,120,https://www.avito.ma/fr/sidi_maarouf/appartements/appartement_3_chambres_salon__54884282.htm
-Appartement 120m2 à Mhamid Maatalah,2 850 DH,Marrakech,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/m'hamid/appartements/Appartement_120m2_%C3%A0_Mhamid_Maatalah_55406995.htm
-Porte Blindée Gros et Détail,3 500 DH,Temara,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/andalousse/porte_et_fen%C3%AAtre/Porte_Blind%C3%A9e_Gros_et_D%C3%A9tail_43603339.htm
-Appart rez de chaussée à Mhamid Maatalah,2 500 DH,Marrakech,NaN,1,NaN,NaN,70,https://www.avito.ma/fr/m'hamid/appartements/Appart_rez_de_chauss%C3%A9e_%C3%A0_Mhamid_Maatalah_54906338.htm
-Appartement 180m² en Vente à Fès,1 650 000 DH,فاس,"Appartements, à vendre",2,4,3,180,https://www.avito.ma/vi/52042881.htm
-Bel appartement de 160 M2 à vendre à Maârif Casa,2 400 000 DH,Casablanca,"Appartements, à vendre",1,4,1,140,https://www.avito.ma/vi/55696216.htm
-Porte Blindée Gros et Détail,NaN,Casablanca,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/bourgogne/porte_et_fen%C3%AAtre/Porte_Blind%C3%A9e_Gros_et_D%C3%A9tail_40425797.htm
-Luxueux Appartement à Louer,15 600 DH,Rabat,NaN,1,NaN,NaN,104,https://www.avito.ma/fr/souissi/appartements/Luxueux_Appartement_%C3%A0_Louer__55528434.htm
-Appart. à vendre 91 m² à Daoudiate Marrakech,NaN,Marrakech,"Appartements, à vendre",1,NaN,NaN,91,https://www.avito.ma/fr/daoudiate/appartements/Appart__%C3%A0_vendre_91_m%C2%B2_%C3%A0_Daoudiate_Marrakech_55613783.htm
-Appartement à vendre 157 m² à Casablanca,NaN,Casablanca,"Appartements, à vendre",2,NaN,NaN,157,https://www.avito.ma/fr/2_mars/appartements/Appartement_%C3%A0_vendre_157_m%C2%B2_%C3%A0_Casablanca_54743695.htm
-Appartement à vendre 42 m² à Casablanca,900 000 DH,Casablanca,"Appartements, à vendre",1,1,1,41,https://www.avito.ma/fr/les_princesses/appartements/Appartement_%C3%A0_vendre_42_m%C2%B2_%C3%A0_Casablanca_55102908.htm
-cozy studio tranquille,500 DH /Nuit,Rabat,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/haut_agdal/locations_de_vacances/cozy_studio_tranquille_55635262.htm
-appartement en location familiale à Castilla,5 500 DH,Tanger,NaN,1,NaN,NaN,140,https://www.avito.ma/fr/castilla/appartements/appartement_en_location_familiale_%C3%A0_Castilla__55724220.htm
-Avec 3 chambres Apprt à almaz pour location,6 500 DH,Casablanca,NaN,1,NaN,NaN,141,https://www.avito.ma/fr/sidi_maarouf/appartements/Avec_3_chambres_Apprt_%C3%A0_almaz_pour_location_55716387.htm
-شقة بفرح السلام مشمشة,267 500 DH,Casablanca,"Appartements, à vendre",1,2,1,46,https://www.avito.ma/fr/oulfa/appartements/%D8%B4%D9%82%D8%A9_%D8%A8%D9%81%D8%B1%D8%AD_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85_%D9%85%D8%B4%D9%85%D8%B4%D8%A9_55586633.htm
-Appartement duplexe meubler a louer,6 800 DH,Casablanca,NaN,2,NaN,NaN,170,https://www.avito.ma/fr/roches_noires/appartements/Appartement_duplexe_meubler_a_louer_54918617.htm
-Appartement à vendre à Tétouan 8800 dhs M2,NaN,Tétouan,"Appartements, à vendre",2,NaN,NaN,128,https://www.avito.ma/fr/autre_secteur/appartements/Appartement_%C3%A0_vendre__%C3%A0_T%C3%A9touan_8800_dhs_M2__55627834.htm
-Nouveau Appart 64m2 au quartier El Fadel,736 000 DH,Marrakech,"Appartements, à vendre",1,2,1,64,https://www.avito.ma/fr/hay_izdihar/appartements/Nouveau_Appart_64m2_au_quartier_El_Fadel_55399439.htm
-appartement 2chambres McDo 2 min - Gueliz 9 min,350 DH /Nuit,Marrakech,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/route_de_safi/locations_de_vacances/appartement_2chambres_McDo_2_min___Gueliz_9_min_55299715.htm
-magnifique appartement à louer,250 DH /Nuit,Agadir,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/hay_mohammadi/locations_de_vacances/magnifique_appartement_%C3%A0_louer__54574665.htm
-Appartement à louer 59 m² à Deroua,NaN,Deroua,NaN,1,NaN,NaN,59,https://www.avito.ma/fr/deroua/appartements/Appartement_%C3%A0_louer_59_m%C2%B2_%C3%A0_Deroua_55724210.htm
-Porte blindée villa,NaN,Settat,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/settat/porte_et_fen%C3%AAtre/Porte_blind%C3%A9e_villa_55420182.htm
-Appartement à vendre 84 m² à Casablanca,672 000 DH,Casablanca,"Appartements, à vendre",1,2,2,84,https://www.avito.ma/fr/errahma/appartements/Appartement_%C3%A0_vendre_84_m%C2%B2_%C3%A0_Casablanca_54961114.htm
-Appartement à louer 65 m² à Rabat,NaN,Rabat,NaN,1,NaN,NaN,65,https://www.avito.ma/fr/hassan/appartements/Appartement_%C3%A0_louer_65_m%C2%B2_%C3%A0_Rabat_52598922.htm
-Appartement très propre,199 DH /Nuit,Tanger,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/malabata/locations_de_vacances/Appartement_tr%C3%A8s_propre__54877567.htm
-Appartement à vendre 80 m² à Salé,820 000 DH,Salé,"Appartements, à vendre",1,2,2,80,https://www.avito.ma/fr/sala_el_jadida/appartements/Appartement_%C3%A0_vendre_80_m%C2%B2_%C3%A0_Sal%C3%A9_53974193.htm
-Apparemment meublé à louer,3 000 DH,Tétouan,NaN,1,NaN,NaN,60,https://www.avito.ma/fr/saniat_rmal/appartements/Apparemment_meubl%C3%A9_%C3%A0_louer__55561874.htm
-Porte Blindée Gros et Détail,3 200 DH,Mohammedia,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/al_qods/porte_et_fen%C3%AAtre/Porte_Blind%C3%A9e_Gros_et_D%C3%A9tail_40437016.htm
-Appart 2 chambres 2 salons allal fassi à Nfis1,990 000 DH,Marrakech,"Appartements, à vendre",1,2,1,96,https://www.avito.ma/fr/allal_el_fassi/appartements/Appart_2_chambres_2_salons_allal_fassi_%C3%A0_Nfis1_53644486.htm
-Appartement de 134m² à Diour Jamaa,7 500 DH,Rabat,NaN,1,NaN,NaN,134,https://www.avito.ma/fr/diour_jamaa/appartements/Appartement_de_134m%C2%B2_%C3%A0_Diour_Jamaa_55698835.htm
-Bureau Rdc 153m2 à Amrchich près Allal Fassi,8 000 DH,Marrakech,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/daoudiate/bureaux/Bureau_Rdc_153m2_%C3%A0_Amrchich_pr%C3%A8s_Allal_Fassi_54665708.htm
-Bureau 130 m² sur Bd Haj Fateh Oulfa,5 500 DH,Casablanca,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/oulfa/bureaux/Bureau_130_m%C2%B2_sur_Bd_Haj_Fateh_Oulfa_55724206.htm
-appartement a vendre sur Ain atik,450 000 DH,Ain Attig,"Appartements, à vendre",1,2,1,59,https://www.avito.ma/fr/ain_attig/appartements/appartement_a_vendre_sur_Ain_atik_55038474.htm
-Appartement à vendre 150 m² à Tanger,2 800 000 DH,Tanger,"Appartements, à vendre",4,3,3,150,https://www.avito.ma/fr/m%C3%A9dina/appartements/Appartement_%C3%A0_vendre_150_m%C2%B2_%C3%A0_Tanger_55140470.htm
-Appartement familial,400 DH /Nuit,Marrakech,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/Appartement_familial__55505278.htm
-Appartement haute standing 100m hiba choka,640 000 DH,Tamesna,"Appartements, à vendre",NaN,3,NaN,115,https://www.avito.ma/fr/tamesna/appartements/Appartement_haute_standing_100m_hiba_choka__50631819.htm
-appartement meublé location de vacances,250 DH /Nuit,Fès,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/route_d'immouzere/locations_de_vacances/appartement_meubl%C3%A9_location_de_vacances__52335517.htm
-Bel Appartement ensoleillé à Bouskoura,4 200 DH,Bouskoura,NaN,1,NaN,NaN,97,https://www.avito.ma/vi/55711021.htm
-appartement à fés,250 DH /Nuit,Fès,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/vi/44787463.htm
-Appartement à louer 72 m² Mesnana à Tanger,2 500 DH,Tanger,NaN,1,NaN,NaN,72,https://www.avito.ma/fr/mesnana/appartements/Appartement_%C3%A0_louer_72_m%C2%B2_Mesnana_%C3%A0_Tanger_55700431.htm
-Porte blindée 3D,3 700 DH,Casablanca,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/bourgogne/porte_et_fen%C3%AAtre/Porte_blind%C3%A9e_3D_51354559.htm
-Appart de 76m2 sur Avenue Mohamed 5 Temara,2 800 DH,Temara,NaN,1,NaN,NaN,76,https://www.avito.ma/fr/nahda_1/appartements/Appart_de_76m2_sur_Avenue_Mohamed_5_Temara__55564733.htm
-Appartement 2 Chambres à 5min du Centre d'Agadir,4 500 DH,Agadir,NaN,1,NaN,NaN,52,https://www.avito.ma/fr/autre_secteur/appartements/Appartement_2_Chambres_%C3%A0_5min_du_Centre_d_Agadir_54617513.htm
-APPARTEMENT FAMILIAL MEUBLÉ AVEC WIFI,249 DH /Nuit,Meknès,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/marjane_2/locations_de_vacances/APPARTEMENT_FAMILIAL_MEUBL%C3%89_AVEC_WIFI__55498486.htm
-très joli app meublé a bourgogne,12 000 DH,Casablanca,NaN,1,NaN,NaN,132,https://www.avito.ma/fr/bourgogne/appartements/tr%C3%A8s_joli_app_meubl%C3%A9_a_bourgogne__55604998.htm
-Appartement Rhan de 85m2 sur Hay El Massira Rabat,200 000 DH,Rabat,NaN,1,NaN,NaN,85,https://www.avito.ma/fr/massira/appartements/Appartement_Rhan_de_85m2_sur_Hay_El_Massira_Rabat_55629797.htm
-Appartement meublé par jour. AGDAL,550 DH /Nuit,Rabat,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/agdal/locations_de_vacances/Appartement_meubl%C3%A9_par_jour__AGDAL_46907305.htm
-Appartement à vendre 60 m² à Martil,460 000 DH,Martil,"Appartements, à vendre",1,2,1,60,https://www.avito.ma/fr/martil/appartements/Appartement_%C3%A0_vendre_60_m%C2%B2_%C3%A0_Martil_55724193.htm
-Appartement spacieux 151 m² à vendre,690 000 DH,Fès,"Appartements, à vendre",2,3,2,151,https://www.avito.ma/fr/narjis/appartements/Appartement_spacieux_151_m%C2%B2_%C3%A0_vendre_55613901.htm
-Appartement à vendre 75 m² à Tanger,410 000 DH,Tanger,"Appartements, à vendre",NaN,2,NaN,75,https://www.avito.ma/fr/aouama_gharbia/appartements/Appartement_%C3%A0_vendre_75_m%C2%B2_%C3%A0_Tanger_54856240.htm
-Appartement à louer 50 m² à Hay Riad,8 300 DH,Rabat,NaN,1,NaN,NaN,50,https://www.avito.ma/fr/hay_riad/appartements/Appartement_%C3%A0_louer_50_m%C2%B2_%C3%A0_Hay_Riad_55341459.htm
-appartement à laouer,4 000 DH,Agadir,NaN,1,NaN,NaN,75,https://www.avito.ma/fr/hay_mohammadi/appartements/appartement_%C3%A0_laouer__53735161.htm
-Appartement à vendre 130 m² à Kénitra,830 000 DH,Kénitra,"Appartements, à vendre",1,3,3,130,https://www.avito.ma/fr/bir_rami_ouest/appartements/Appartement_%C3%A0_vendre_130_m%C2%B2_%C3%A0_K%C3%A9nitra_54572343.htm
-Porte blindee,3 200 DH,Casablanca,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/oulfa/porte_et_fen%C3%AAtre/Porte_blindee_55716462.htm
-APPARTEMENT AVEC VUE PANORAMIQUE À TÉTOUAN.,NaN,Tétouan,"Appartements, à vendre",2,NaN,NaN,92,https://www.avito.ma/fr/autre_secteur/appartements/APPARTEMENT_AVEC_VUE_PANORAMIQUE_%C3%80_T%C3%89TOUAN__54012990.htm
-Belle appartement près acima gueliz,300 DH /Nuit,Marrakech,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/Belle_appartement_pr%C3%A8s_acima_gueliz__55709687.htm
-Luxueux Appartement Meublé- Au Cœur de Tanger,12 000 DH,Tanger,NaN,2,NaN,NaN,106,https://www.avito.ma/fr/castilla/appartements/Luxueux_Appartement_Meubl%C3%A9__Au_C_ur_de_Tanger_55659842.htm
-Appartement à louer 65 m² à Casablanca,6 700 DH,Casablanca,NaN,1,NaN,NaN,65,https://www.avito.ma/fr/maarif/appartements/Appartement_%C3%A0_louer_65_m%C2%B2_%C3%A0_Casablanca_55724192.htm
-Appartement à vendre 96 m² à Casablanca,620 000 DH,Casablanca,"Appartements, à vendre",2,2,2,96,https://www.avito.ma/fr/sidi_bernoussi/appartements/Appartement_%C3%A0_vendre_96_m%C2%B2_%C3%A0_Casablanca_54206818.htm
-Appartement pour famille,299 DH /Nuit,Casablanca,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/al_fida/locations_de_vacances/Appartement__pour_famille_52228490.htm
-Appartement à vendre 101 m² à El Mansouria,1 250 000 DH,El Mansouria,"Appartements, à vendre",1,3,2,101,https://www.avito.ma/fr/el_mansouria/appartements/Appartement_%C3%A0_vendre_101_m%C2%B2_%C3%A0_El_Mansouria_55188302.htm
-appartement à vendre ouilfa,990 000 DH,Casablanca,"Appartements, à vendre",1,3,2,99,https://www.avito.ma/fr/oulfa/appartements/appartement_%C3%A0_vendre_ouilfa__54305386.htm
-Appartement LDV484 location de vacances à Agadir,NaN,Agadir,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/sonaba/locations_de_vacances/Appartement_LDV484_location_de_vacances_%C3%A0_Agadir_53119989.htm
-Appartement location de vacances à Marrakech,1 100 DH /Nuit,Marrakech,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/centre_ville/locations_de_vacances/_Appartement_location_de_vacances_%C3%A0_Marrakech_55190953.htm
-Appartement à vendre 90 m² à Rabat,1 500 000 DH,Rabat,"Appartements, à vendre",2,2,1,90,https://www.avito.ma/fr/agdal/appartements/Appartement_%C3%A0_vendre_90_m%C2%B2_%C3%A0_Rabat_55171833.htm
-appartement pour location ( palmeraie),600 DH /Nuit,Marrakech,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/autre_secteur/locations_de_vacances/appartement_pour_location___palmeraie__55579010.htm
-a louer appart meublé à 2 mard,7 500 DH,Casablanca,NaN,1,NaN,NaN,72,https://www.avito.ma/fr/2_mars/appartements/a_louer_appart_meubl%C3%A9__%C3%A0_2_mard__55655059.htm
-Appartement à vendre 78 m² à Agadir,NaN,Agadir,"Appartements, à vendre",1,NaN,NaN,78,https://www.avito.ma/fr/tilila/appartements/Appartement_%C3%A0_vendre_78_m%C2%B2_%C3%A0_Agadir_54002429.htm
-Appart. Haut standing 140 m2 Bourogne Racine,3 500 000 DH,Casablanca,"Appartements, à vendre",2,4,3,140,https://www.avito.ma/fr/racine/appartements/Appart__Haut_standing_140_m2_Bourogne_Racine_55637784.htm
-Appartemen location journalier à Nador wifi dispo,300 DH /Nuit,Nador,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/aarid/locations_de_vacances/Appartemen_location_journalier_%C3%A0_Nador_wifi_dispo_55623302.htm
-Appartement à vendre 127 m² à Marrakech,1 600 000 DH,Marrakech,"Appartements, à vendre",1,2,2,127,https://www.avito.ma/fr/av_mohammed_vi/appartements/Appartement_%C3%A0_vendre_127_m%C2%B2_%C3%A0_Marrakech_55718853.htm
-appartement à louer Marina saidia,600 DH,Saidia,NaN,1,NaN,NaN,110,https://www.avito.ma/fr/saidia/appartements/appartement_%C3%A0_louer_Marina_saidia_55037146.htm
-Appartement haut standing à l'hermitage,6 700 DH,Casablanca,NaN,1,NaN,NaN,70,https://www.avito.ma/fr/hermitage/appartements/Appartement_haut_standing_%C3%A0_l_hermitage__55179819.htm
-Appartement Très Chic en face du plage,300 DH /Nuit,Essaouira,NaN,NaN,NaN,NaN,NaN,https://www.avito.ma/fr/centre_ville/locations_de_vacances/Appartement_Tr%C3%A8s_Chic_en_face_du_plage__54823994.htm
-Appartement à vendre 90 m² à Bouskoura,799 000 DH,Bouskoura,"Appartements, à vendre",1,2,2,90,https://www.avito.ma/vi/48037070.htm
-bien appartement à vendre houda,1 150 000 DH,Agadir,"Appartements, à vendre",1,3,2,86,https://www.avito.ma/vi/55723997.htm
+A louer Appartement prés clinique Badr(Bourgogne),5 500 DH,Casablanca,A louer,1,NaN,NaN,100,https://www.avito.ma/fr/bourgogne/appartements/A_louer_Appartement_pr%C3%A9s_clinique_Badr_Bourgogne__55627539.htm
+Appartement à vendre 132 m² a bv 2 mars,1 400 000 DH,Casablanca,"Appartements, à vendre",1,3,2,132,https://www.avito.ma/fr/2_mars/appartements/Appartement_%C3%A0_vendre_132_m%C2%B2_a_bv_2_mars__55725003.htm
+appartement 3 chambre salon résidence green parck,6 500 DH,Salé,A louer,1,NaN,NaN,116,https://www.avito.ma/fr/sala_el_jadida/appartements/appartement_3_chambre_salon_r%C3%A9sidence_green_parck_55725002.htm
+Apt H-Standing 160M²/Terrasse/Très Sécurisé/Racine,11 000 DH,Casablanca,A louer,1,NaN,NaN,160,https://www.avito.ma/fr/anfa/appartements/Apt_H_Standing_160M%C2%B2_Terrasse_Tr%C3%A8s_S%C3%A9curis%C3%A9_Racine_55137990.htm
+Appartement 112 m à mahaj ryad,8 000 DH,Rabat,A louer,1,NaN,NaN,112,https://www.avito.ma/fr/hay_riad/appartements/Appartement_112_m_%C3%A0_mahaj_ryad_55725000.htm
+Appartement à vendre 127m² à Casablanca,2 200 000 DH,Casablanca,"Appartements, à vendre",2,3,2,127,https://www.avito.ma/fr/maarif/appartements/Appartement_%C3%A0_vendre_127m%C2%B2_%C3%A0_Casablanca_52869889.htm
+CMN-MA-1755 - Appartement à vendre à Racine,1 400 000 DH,Casablanca,"Appartements, à vendre",NaN,1,1,58,https://www.avito.ma/fr/racine/appartements/CMN_MA_1755___Appartement_%C3%A0_vendre_%C3%A0_Racine_55650826.htm
+Appartement à Maarif Quartier des hôpitaux,600 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/maarif/locations_de_vacances/Appartement_%C3%A0_Maarif_Quartier_des_h%C3%B4pitaux__52959892.htm
+61339-Vente Appt à Casablanca Belvedere (Roches No,1 054 000 DH,Casablanca,"Appartements, à vendre",NaN,3,2,112,https://www.avito.ma/fr/belv%C3%A9d%C3%A8re/appartements/61339_Vente_Appt_%C3%A0_Casablanca_Belvedere__Roches_No_55724977.htm
+appart meublé familiale sans intermédiaire Wi-Fi,200 DH /Nuit,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/hay_hassani/locations_de_vacances/appart_meubl%C3%A9_familiale_sans_interm%C3%A9diaire_Wi_Fi_54874637.htm
+Appartement à vendre 147 m² à Casablanca,1 500 000 DH,Casablanca,"Appartements, à vendre",2,3,3,147,https://www.avito.ma/fr/franceville/appartements/Appartement_%C3%A0_vendre_147_m%C2%B2_%C3%A0_Casablanca_54701216.htm
+Appartement Haut standing,500 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/maarif/locations_de_vacances/Appartement_Haut_standing_54334955.htm
+appartement meublé a louer par jour,250 DH /Nuit,Fès,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/autre_secteur/locations_de_vacances/appartement_meubl%C3%A9_a_louer_par_jour__54655280.htm
+appartement meublé location par jour,250 DH /Nuit,Fès,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/route_d'immouzere/locations_de_vacances/appartement_meubl%C3%A9_location_par_jour__52335878.htm
+Appartement location Journalière,899 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/casablanca_finance_city/locations_de_vacances/Appartement_location_Journali%C3%A8re__53571024.htm
+cozy studio tranquille,500 DH /Nuit,Rabat,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/haut_agdal/locations_de_vacances/cozy_studio_tranquille_55635262.htm
+Appart maarif location journalière,600 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/maarif/locations_de_vacances/Appart_maarif_location_journali%C3%A8re_52959760.htm
+Appartement à vendre 87 m² à Casablanca,696 000 DH,Casablanca,"Appartements, à vendre",1,2,2,87,https://www.avito.ma/fr/errahma/appartements/Appartement_%C3%A0_vendre_87_m%C2%B2_%C3%A0_Casablanca_55342053.htm
+Appartement splendide à Kénitra Hadada,520 000 DH,Kénitra,"Appartements, à vendre",1,2,1,72,https://www.avito.ma/fr/el_haddada/appartements/Appartement_splendide_%C3%A0_K%C3%A9nitra_Hadada__55680575.htm
+Appartement à louer longue durrée à hay mohammadi,Prix Non Specifié,Agadir,A louer,1,NaN,NaN,90,https://www.avito.ma/fr/hay_mohammadi/appartements/Appartement_%C3%A0_louer_longue_durr%C3%A9e_%C3%A0_hay_mohammadi_55683397.htm
+Beau appartement sur gueliz m129,300 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/Beau_appartement_sur_gueliz_m129_55575043.htm
+شقة للبيع محفضة ط.5 بباركينغ اسونسور,12 000 DH,Tanger,"Appartements, à vendre",1,2,1,97,https://www.avito.ma/fr/moulay_youssef/appartements/%D8%B4%D9%82%D8%A9_%D9%84%D9%84%D8%A8%D9%8A%D8%B9_%D9%85%D8%AD%D9%81%D8%B6%D8%A9_%D8%B7_5_%D8%A8%D8%A8%D8%A7%D8%B1%D9%83%D9%8A%D9%86%D8%BA_%D8%A7%D8%B3%D9%88%D9%86%D8%B3%D9%88%D8%B1__55724972.htm
+Appartement vide a louer a les clos des pins,14 000 DH,Rabat,A louer,1,NaN,NaN,120,https://www.avito.ma/fr/agdal/appartements/Appartement_vide_a_louer_a_les_clos_des_pins_54397083.htm
+Appartement de 3 ch salon a haut Agdal,11 000 DH,Rabat,A louer,1,NaN,NaN,145,https://www.avito.ma/fr/agdal/appartements/Appartement_de_3_ch_salon_a_haut_Agdal_55443052.htm
+Appartement 100 m² à vendre à HAY CHARAF Marrakech,800 000 DH,Marrakech,"Appartements, à vendre",2,2,1,100,https://www.avito.ma/fr/hay_charaf/appartements/Appartement_100_m%C2%B2_%C3%A0_vendre_%C3%A0_HAY_CHARAF_Marrakech_55652595.htm
+Appartement à louer 86 m² à Temara,4 500 DH,Temara,A louer,1,NaN,NaN,86,https://www.avito.ma/fr/wifak/appartements/Appartement_%C3%A0_louer_86_m%C2%B2_%C3%A0_Temara_55721315.htm
+Appartement à louer 3 Chambre,6 000 DH,Casablanca,A louer,1,NaN,NaN,100,https://www.avito.ma/fr/belv%C3%A9d%C3%A8re/appartements/Appartement_%C3%A0_louer_3_Chambre__54745662.htm
+Appartement meublé à louer par jour à Playa/TGV,450 DH /Nuit,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/malabata/locations_de_vacances/Appartement_meubl%C3%A9_%C3%A0_louer_par_jour_%C3%A0_Playa_TGV_55505357.htm
+Appartement à louer 54 m² à Casablanca,619 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/maarif/locations_de_vacances/Appartement_%C3%A0_louer_54_m%C2%B2_%C3%A0_Casablanca_55544408.htm
+Belle appartement Deluxe a gueliz,350 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/Belle_appartement_Deluxe_a_gueliz__55710945.htm
+appartement en location,3 500 DH,Temara,A louer,1,NaN,NaN,70,https://www.avito.ma/fr/wifak/appartements/appartement_en_location_55443091.htm
+2 Appartement 2 Piece 60 m² à Temara Hachmiya,520 000 DH,Temara,"Appartements, à vendre",1,1,1,60,https://www.avito.ma/fr/skikina/appartements/2_Appartement_2_Piece_60_m%C2%B2_%C3%A0_Temara_Hachmiya__54202824.htm
+appartement meublée pour location,400 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/allal_el_fassi/locations_de_vacances/appartement_meubl%C3%A9e_pour_location__55680543.htm
+Appartement à vendre 87 m² à Saidia,Prix Non Specifié,Saidia,"Appartements, à vendre",1,NaN,NaN,87,https://www.avito.ma/fr/saidia/appartements/Appartement_%C3%A0_vendre_87_m%C2%B2_%C3%A0_Saidia_41087228.htm
+Appartement à vendre 51 m² à Casablanca,809 000 DH,Casablanca,"Appartements, à vendre",1,1,1,37,https://www.avito.ma/vi/54344505.htm
+Bel Appartement à louer Commune de Menzeh,9 000 DH,Rabat,A louer,2,NaN,NaN,95,https://www.avito.ma/vi/55717601.htm
+Appartement à louer 65 m² à Rabat,Prix Non Specifié,Rabat,A louer,1,NaN,NaN,65,https://www.avito.ma/fr/agdal/appartements/Appartement_%C3%A0_louer_65_m%C2%B2_%C3%A0_Rabat_55222583.htm
+appartement à 4 minutes à pied de la plage,Prix Non Specifié,Saidia,"Appartements, à vendre",1,NaN,NaN,80,https://www.avito.ma/fr/saidia/appartements/appartement_%C3%A0_4_minutes_%C3%A0_pied_de_la_plage__42482829.htm
+Très belle appart au centre ville,250 DH /Nuit,Fès,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/agdal/locations_de_vacances/Tr%C3%A8s_belle_appart_au_centre_ville_55104292.htm
+Appartement spacieux a hay salam,250 DH /Nuit,Agadir,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/hay_salam/locations_de_vacances/Appartement_spacieux_a_hay_salam__55450580.htm
+Appartement 140m² à louer à Californie,8 400 DH,Casablanca,A louer,1,NaN,NaN,140,https://www.avito.ma/fr/californie/appartements/Appartement_140m%C2%B2_%C3%A0_louer_%C3%A0_Californie__55204594.htm
+Appartement à vendre 83 m² à Tanger,710 000 DH,Tanger,"Appartements, à vendre",2,2,1,83,https://www.avito.ma/fr/ahlane/appartements/Appartement_%C3%A0_vendre_83_m%C2%B2_%C3%A0_Tanger_55684140.htm
+Appartement à vendre 121 m² à Casablanca,1 420 000 DH,Casablanca,"Appartements, à vendre",1,3,2,121,https://www.avito.ma/fr/abdelmoumen/appartements/Appartement_%C3%A0_vendre_121_m%C2%B2_%C3%A0_Casablanca_55495144.htm
+Un appartement de 155m² à Iberia avec 2 façades,2 650 000 DH,Tanger,"Appartements, à vendre",1,3,NaN,155,https://www.avito.ma/fr/iberie/appartements/Un_appartement_de_155m%C2%B2_%C3%A0_Iberia_avec_2_fa%C3%A7ades_55724957.htm
+Appartement à vendre 98 m² à Agadir,2 400 000 DH,Agadir,"Appartements, à vendre",1,3,1,98,https://www.avito.ma/fr/secteur_touristique/appartements/Appartement_%C3%A0_vendre_98_m%C2%B2_%C3%A0_Agadir_53870526.htm
+Marina appartement vue mer et la mosquée hassan 2,30 000 DH,Casablanca,A louer,1,NaN,NaN,266,https://www.avito.ma/fr/a%C3%AFn_diab/appartements/Marina_appartement_vue_mer_et_la_mosqu%C3%A9e_hassan_2_46233087.htm
+Appartement à vendre à Val Fleury Casablanca,1 590 000 DH,Casablanca,"Appartements, à vendre",1,3,2,116,https://www.avito.ma/fr/val_fleuri/appartements/Appartement_%C3%A0_vendre_%C3%A0_Val_Fleury_Casablanca_53092817.htm
+Appartement à louer Hay Riad Prestigia,15 000 DH,Rabat,A louer,1,NaN,NaN,158,https://www.avito.ma/fr/hay_riad/appartements/Appartement_%C3%A0_louer_Hay_Riad__Prestigia_55155596.htm
+Appartement de standing pelage de centre,Prix Non Specifié,Mohammedia,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/corniche/locations_de_vacances/Appartement_de_standing_pelage_de_centre__52516033.htm
+Appartement meublé deux chambressalon wifi,400 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/maarif/locations_de_vacances/Appartement_meubl%C3%A9_deux_chambressalon_wifi_54500939.htm
+Appartement à louer - 2 chambres avec vue piscine,4 000 DH,Bouznika,A louer,1,NaN,NaN,68,https://www.avito.ma/fr/autre_secteur/appartements/Appartement_%C3%A0_louer___2_chambres_avec_vue_piscine_55724952.htm
+70m2 LUXE terrasse ARRIBAT CENTER AGDAL,880 DH /Nuit,Rabat,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/agdal/locations_de_vacances/70m2_LUXE_terrasse_ARRIBAT_CENTER_AGDAL_53302319.htm
+Appartement meublé Agadirbay vue piscine,750 DH /Nuit,Agadir,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/sonaba/locations_de_vacances/Appartement_meubl%C3%A9_Agadirbay_vue_piscine__55119341.htm
+Appartement vide à louer 62 m² à Anoual,5 500 DH,Casablanca,A louer,NaN,NaN,NaN,62,https://www.avito.ma/fr/quartier_des_h%C3%B4pitaux/appartements/Appartement_vide_%C3%A0_louer_62_m%C2%B2_%C3%A0_Anoual_55606577.htm
+Appartement près acima GUELIZ MARRAKECH,349 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/Appartement_pr%C3%A8s_acima_GUELIZ_MARRAKECH__55709737.htm
+CMN-AS-1635 - Appartement à vendre à Belvédère,1 100 000 DH,Casablanca,"Appartements, à vendre",NaN,2,2,98,https://www.avito.ma/fr/belv%C3%A9d%C3%A8re/appartements/CMN_AS_1635___Appartement_%C3%A0_vendre_%C3%A0_Belv%C3%A9d%C3%A8re_55561169.htm
+appartement haut standing a mimosas(3 chambres),450 DH /Nuit,Kénitra,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/mimosas/locations_de_vacances/appartement_haut_standing_a_mimosas_3_chambres__51461154.htm
+Appartement à louer 88 m² 3ch à maamora,3 500 DH,Kénitra,A louer,1,NaN,NaN,88,https://www.avito.ma/fr/maamora/appartements/Appartement_%C3%A0_louer_88_m%C2%B2_3ch_%C3%A0_maamora_55442513.htm
+Cosy appartement meuble a vendre,1 200 000 DH,Tanger,"Appartements, à vendre",1,2,1,86,https://www.avito.ma/fr/malabata/appartements/Cosy_appartement_meuble_a_vendre_53942663.htm
+Appartement à vendre Hay Riad Rabat,3 550 000 DH,Rabat,"Appartements, à vendre",1,4,3,154,https://www.avito.ma/fr/hay_riad/appartements/Appartement_%C3%A0_vendre_Hay_Riad_Rabat_55259899.htm
+Appartement à louer 112 m² à Kénitra,2 750 DH,Kénitra,A louer,2,NaN,NaN,112,https://www.avito.ma/fr/bab_f%C3%A8s/appartements/Appartement_%C3%A0_louer_112_m%C2%B2_%C3%A0_K%C3%A9nitra_55724946.htm
+appartement en vente,600 000 DH,Martil,"Appartements, à vendre",1,3,2,75,https://www.avito.ma/fr/martil/appartements/appartement_en_vente__55543434.htm
+INSTALLATION REPARATION CLIMATISUER,Prix Non Specifié,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/casablanca/autres_services/INSTALLATION_REPARATION_CLIMATISUER_36629495.htm
+Appartement bien rangé par jours CY690,250 DH /Nuit,Agadir,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/hay_salam/locations_de_vacances/Appartement_bien_rang%C3%A9_par_jours_CY690_55585915.htm
+"APPARTEMENT NEUF 3 CHAMBRES, AZIB.BRANAS",6 500 DH,Tanger,A louer,1,NaN,NaN,80,https://www.avito.ma/fr/azib_haj_kaddour/appartements/APPARTEMENT_NEUF_3_CHAMBRES__AZIB_BRANAS_55187446.htm
+Appartement meublé avendr à saidia,Prix Non Specifié,Saidia,"Appartements, à vendre",1,NaN,NaN,80,https://www.avito.ma/fr/saidia/appartements/Appartement_meubl%C3%A9_avendr_%C3%A0_saidia__41196175.htm
+Appartement à vendre 75 m² à Kénitra,570 000 DH,Kénitra,"Appartements, à vendre",1,2,1,75,https://www.avito.ma/fr/autre_secteur/appartements/Appartement_%C3%A0_vendre_75_m%C2%B2_%C3%A0_K%C3%A9nitra_55617285.htm
+appartement à louer par journnée,300 DH /Nuit,Kénitra,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/centre/locations_de_vacances/appartement_%C3%A0_louer_par_journn%C3%A9e__55724943.htm
+Jolie appartement près de la gare,299 DH /Nuit,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/tanger_city_center/locations_de_vacances/Jolie_appartement_pr%C3%A8s_de_la_gare_55679925.htm
+appartement avec piscine,700 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/appartement_avec_piscine_52897409.htm
+appartement près de la plage,6 500 DH,Tanger,A louer,1,NaN,NaN,75,https://www.avito.ma/vi/55721621.htm
+Appartement de haut standing à Maârif,500 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/vi/54166647.htm
+Appartement à vendre 140 m² à Marina Beach,Prix Non Specifié,Tétouan,"Appartements, à vendre",1,NaN,NaN,140,https://www.avito.ma/fr/route_de_ceuta/appartements/Appartement_%C3%A0_vendre_140_m%C2%B2_%C3%A0__Marina_Beach_49723350.htm
+Appartement avec une belle terrasse palmeraie,8 500 DH,Marrakech,A louer,1,NaN,NaN,82,https://www.avito.ma/fr/palmeraie/appartements/Appartement_avec_une_belle_terrasse_palmeraie__55616921.htm
+Appartement Ambassadeur Arribat Center,800 DH /Nuit,Rabat,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/agdal/locations_de_vacances/Appartement_Ambassadeur_Arribat_Center_55243880.htm
+Appartement à louer 102 m² à Casablanca,11 000 DH,Casablanca,A louer,1,NaN,NaN,102,https://www.avito.ma/fr/bourgogne/appartements/Appartement_%C3%A0_louer_102_m%C2%B2_%C3%A0_Casablanca_55721296.htm
+À Vendre – Appartement Meublé Prêt à Emménager,900 000 DH,Casablanca,"Appartements, à vendre",1,2,1,82,https://www.avito.ma/fr/al_fida/appartements/%C3%80_Vendre___Appartement_Meubl%C3%A9_Pr%C3%AAt_%C3%A0_Emm%C3%A9nager_55660997.htm
+Appartement à vendre 52 m² à abouab sala,290 000 DH,Salé,"Appartements, à vendre",1,2,2,52,https://www.avito.ma/fr/abouab_sala/appartements/Appartement_%C3%A0_vendre_52_m%C2%B2_%C3%A0_abouab_sala__55724939.htm
+Studio meublé à louer 48 m² à Casablanca,6 300 DH,Casablanca,A louer,1,NaN,NaN,48,https://www.avito.ma/fr/maarif/appartements/Studio_meubl%C3%A9_%C3%A0_louer_48_m%C2%B2_%C3%A0_Casablanca_55716552.htm
+Appartement à louer 75 m² à Laâyoune,2 000 DH,Laâyoune,A louer,1,NaN,NaN,80,https://www.avito.ma/fr/la%C3%A2youne/appartements/Appartement_%C3%A0_louer_75_m%C2%B2_%C3%A0_La%C3%A2youne_55137159.htm
+Appartement 98m² 3 chambres à Californie,6 700 DH,Casablanca,A louer,1,NaN,NaN,98,https://www.avito.ma/fr/californie/appartements/Appartement_98m%C2%B2_3_chambres_%C3%A0_Californie__35011657.htm
+Appartement à vendre 80 m² à Casablanca,1 478 000 DH,Casablanca,"Appartements, à vendre",1,2,2,80,https://www.avito.ma/fr/franceville/appartements/Appartement_%C3%A0_vendre_80_m%C2%B2_%C3%A0_Casablanca_55144722.htm
+Appartement à louer Bourgogne,7 000 DH,Casablanca,A louer,1,NaN,NaN,100,https://www.avito.ma/fr/bourgogne/appartements/Appartement_%C3%A0_louer_Bourgogne__55503172.htm
+Duplex avec deux terrasse sur Hay Riad,25 000 DH,Rabat,A louer,2,NaN,NaN,360,https://www.avito.ma/fr/hay_riad/maisons_et_villas/Duplex_avec_deux_terrasse_sur_Hay_Riad_55012110.htm
+Apparemment longue durée,12 000 DH,Marrakech,A louer,1,NaN,NaN,78,https://www.avito.ma/fr/av_mohammed_vi/appartements/Apparemment_longue_dur%C3%A9e___55664955.htm
+Location vacances,500 DH /Nuit,Mohammedia,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/centre_ville/locations_de_vacances/Location_vacances__52367820.htm
+Appartement hôtel proches de stade d'honneur,600 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/maarif/locations_de_vacances/Appartement_h%C3%B4tel_proches_de_stade_d_honneur_55544576.htm
+✅✅appartement équipé ✅✅,500 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/maarif/locations_de_vacances/__appartement_%C3%A9quip%C3%A9____55656998.htm
+Appartement de vacances à Meknès,300 DH /Nuit,Meknès,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/autre_secteur/locations_de_vacances/Appartement_de_vacances_%C3%A0_Mekn%C3%A8s_53448245.htm
+Appartements sécurisés,500 DH /Nuit,Rabat,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/agdal/locations_de_vacances/Appartements_s%C3%A9curis%C3%A9s__55635634.htm
+Appartement à vendre 96 m² à Salé,870 000 DH,Salé,"Appartements, à vendre",1,3,2,96,https://www.avito.ma/fr/hay_chmaou/appartements/Appartement_%C3%A0_vendre_96_m%C2%B2_%C3%A0_Sal%C3%A9_54573847.htm
+appartement a louer,2 300 DH,Agadir,A louer,1,NaN,NaN,55,https://www.avito.ma/fr/hay_salam/appartements/appartement_a_louer_55724930.htm
+Appartement de lux 78 m² à alliance mehdia,480 000 DH,Kénitra,"Appartements, à vendre",2,2,2,78,https://www.avito.ma/fr/autre_secteur/appartements/Appartement_de_lux_78_m%C2%B2_%C3%A0_alliance_mehdia_55539165.htm
+Appartement à vendre 109 m² à Casablanca,11 500 DH,Casablanca,"Appartements, à vendre",2,3,2,109,https://www.avito.ma/fr/ain_sebaa/appartements/Appartement_%C3%A0_vendre_109_m%C2%B2_%C3%A0_Casablanca_55553040.htm
+Appartement à louer 90 m² à Tanger,5 700 DH,Tanger,A louer,2,NaN,NaN,90,https://www.avito.ma/fr/bel_air___val_fleuri/appartements/Appartement_%C3%A0_louer_90_m%C2%B2_%C3%A0_Tanger_55403112.htm
+appartement meublé à agadir centre,200 DH /Nuit,Agadir,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/abattoirs/locations_de_vacances/appartement_meubl%C3%A9_%C3%A0_agadir_centre_50363697.htm
+appart à centre de Marrakech,300 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/appart_%C3%A0_centre_de_Marrakech__55712360.htm
+Appartement à louer 118 m² à Eco city Zenata,8 000 DH,Zenata,A louer,1,NaN,NaN,118,https://www.avito.ma/fr/zenata/appartements/Appartement_%C3%A0_louer_118_m%C2%B2_%C3%A0_Eco_city_Zenata_55610364.htm
+Appartement pour vacance Beach paradise,449 DH /Nuit,El Mansouria,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/el_mansouria/locations_de_vacances/_Appartement_pour_vacance_Beach_paradise_53611862.htm
+Appartement par Jour Hamria,Prix Non Specifié,Meknès,A louer,0,NaN,NaN,120,https://www.avito.ma/fr/hamria/appartements/Appartement_par_Jour_Hamria__55050446.htm
+Joli appart حي الإداري,2 300 000 DH,Rabat,"Appartements, à vendre",2,3,2,140,https://www.avito.ma/fr/aviation___mabella/appartements/Joli_appart__%D8%AD%D9%8A_%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A__55446495.htm
+Appartement Risedance (الأسرة),480 000 DH,Agadir,"Appartements, à vendre",1,2,1,52,https://www.avito.ma/fr/el_houda/appartements/Appartement_Risedance__%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D8%A9__55700176.htm
+appart bien sécurisé à guéliz,300 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/appart_bien_s%C3%A9curis%C3%A9_%C3%A0_gu%C3%A9liz__55712113.htm
+Joli Appartement au bord de la mer Jack Beach,5 800 DH,Dar Bouazza,A louer,1,NaN,NaN,80,https://www.avito.ma/fr/dar_bouazza/appartements/Joli_Appartement_au_bord_de_la_mer_Jack_Beach_55693538.htm
+Appartement de standing,500 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/bourgogne/locations_de_vacances/Appartement_de_standing__54801811.htm
+Appart 2 chambres Luxe a Bourgogne Familiale,490 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/vi/52893505.htm
+Appartement à vendre 58 m² à El Jadida,200 000 DH,El Jadida,"Appartements, à vendre",1,2,1,58,https://www.avito.ma/vi/55717055.htm
+CMN-MA-1641 - Appartement à vendre à Val Fleurie,1 600 000 DH,Casablanca,"Appartements, à vendre",NaN,3,1,132,https://www.avito.ma/fr/val_fleuri/appartements/CMN_MA_1641___Appartement_%C3%A0_vendre_%C3%A0_Val_Fleurie_55294484.htm
+Appartement en plien Centre-Ville,350 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/centre_ville/locations_de_vacances/Appartement_en_plien_Centre_Ville_54888517.htm
+appartement meublé a louer,400 DH,Fès,A louer,1,NaN,NaN,100,https://www.avito.ma/fr/agdal/appartements/appartement_meubl%C3%A9_a_louer__53305048.htm
+Appartement de standing,500 DH /Nuit,Mohammedia,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/quartier_du_parc/locations_de_vacances/Appartement_de_standing__52359570.htm
+Appartement 92 m² au Rez-de-chaussée à Boukhalef,480 000 DH,Tanger,"Appartements, à vendre",1,3,NaN,92,https://www.avito.ma/fr/ziatene/appartements/Appartement_92_m%C2%B2_au_Rez_de_chauss%C3%A9e_%C3%A0_Boukhalef_55724928.htm
+Appartement à louer 70 m² à Rabat,5 500 DH,Rabat,A louer,1,NaN,NaN,70,https://www.avito.ma/fr/hay_riad/appartements/Appartement_%C3%A0_louer_70_m%C2%B2_%C3%A0_Rabat_53786994.htm
+EMBLÉMATIQUE APPARTEMENT AVEC PISCINE,300 DH /Nuit,Agadir,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/hay_mohammadi/locations_de_vacances/EMBL%C3%89MATIQUE_APPARTEMENT_AVEC_PISCINE__55724925.htm
+studio pour location journalière à agdal,599 DH /Nuit,Rabat,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/agdal/locations_de_vacances/studio_pour_location_journali%C3%A8re_%C3%A0_agdal_54222624.htm
+Appartement 90 m à prestigia,9 000 DH,Rabat,A louer,1,NaN,NaN,90,https://www.avito.ma/fr/hay_riad/appartements/Appartement_90_m_%C3%A0_prestigia__55717836.htm
+70 m2 LUXE ARRIBAT CENTER AGDAL,800 DH /Nuit,Rabat,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/agdal/locations_de_vacances/70_m2_LUXE_ARRIBAT_CENTER_AGDAL_53857056.htm
+appartement usage de bureau en location a Anoual,8 500 DH,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/quartier_des_h%C3%B4pitaux/bureaux/appartement_usage_de_bureau_en_location__a_Anoual__54513940.htm
+Appartement à vendre 85 m² à Casablanca,960 000 DH,Casablanca,"Appartements, à vendre",2,2,2,85,https://www.avito.ma/fr/belv%C3%A9d%C3%A8re/appartements/Appartement_%C3%A0_vendre_85_m%C2%B2_%C3%A0_Casablanca_55145517.htm
+Appartement 2 chambres en plein centre de guéliz,1 350 000 DH,Marrakech,"Appartements, à vendre",1,2,2,89,https://www.avito.ma/fr/gu%C3%A9liz/appartements/Appartement_2_chambres_en_plein_centre_de_gu%C3%A9liz_55539762.htm
+Appartement à vendre 74m² à Kénitra mimosas,680 000 DH,Kénitra,"Appartements, à vendre",1,2,2,68,https://www.avito.ma/fr/mimosas/appartements/Appartement_%C3%A0_vendre_74m%C2%B2_%C3%A0_K%C3%A9nitra_mimosas_55645600.htm
+joli appartement a vendre,780 000 DH,Mohammedia,"Appartements, à vendre",1,2,1,61,https://www.avito.ma/fr/quartier_du_parc/appartements/joli_appartement_a_vendre_55518317.htm
+Appartement à vendre 88 m² à Mohammedia,Prix Non Specifié,Mohammedia,"Appartements, à vendre",1,NaN,NaN,88,https://www.avito.ma/fr/quartier_du_parc/appartements/Appartement_%C3%A0_vendre_88_m%C2%B2_%C3%A0_Mohammedia_55530688.htm
+Appartement 2 chambres vue sur mer à louer 75 m²,4 800 DH,El Mansouria,A louer,1,NaN,NaN,75,https://www.avito.ma/fr/el_mansouria/appartements/Appartement_2_chambres_vue_sur_mer_%C3%A0_louer_75_m%C2%B2_55363235.htm
+Appartement 2 chambres salon meublé à louer,5 500 DH,Marrakech,A louer,1,NaN,NaN,66,https://www.avito.ma/fr/hay_izdihar/appartements/Appartement_2_chambres_salon_meubl%C3%A9_%C3%A0_louer_55625816.htm
+PROPRE apr 2MN DE L A CORNiCHE,200 DH /Nuit,Martil,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/martil/locations_de_vacances/PROPRE_apr_2MN_DE_L_A_CORNiCHE_53531159.htm
+Appartement à louer 55 m² à Casablanca,5 700 DH,Casablanca,A louer,1,NaN,NaN,55,https://www.avito.ma/fr/belv%C3%A9d%C3%A8re/appartements/Appartement_%C3%A0_louer_55_m%C2%B2_%C3%A0_Casablanca_55115808.htm
+Joli appartement basatin el Menzeh,1 400 000 DH,Rabat,"Appartements, à vendre",1,2,2,70,https://www.avito.ma/fr/souissi/appartements/Joli_appartement_basatin_el_Menzeh__55623172.htm
+Appartement à louer à Prestigia,10 000 DH,Rabat,A louer,2,NaN,NaN,1,https://www.avito.ma/fr/hay_riad/appartements/Appartement_%C3%A0_louer_%C3%A0_Prestigia_50015866.htm
+شقة للايجار قرب محطة القطار,250 DH /Nuit,Kénitra,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/maamora/locations_de_vacances/%D8%B4%D9%82%D8%A9_%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1_%D9%82%D8%B1%D8%A8_%D9%85%D8%AD%D8%B7%D8%A9_%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B1__55587376.htm
+Appartement à vendre 53 m² à errahma sans meubles,280 000 DH,Casablanca,"Appartements, à vendre",1,2,2,53,https://www.avito.ma/fr/errahma/appartements/Appartement_%C3%A0_vendre_53_m%C2%B2_%C3%A0_errahma_sans_meubles_55505449.htm
+Appartement hôtel pierre de jad,680 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/maarif/locations_de_vacances/Appartement_h%C3%B4tel_pierre_de_jad_55074090.htm
+Apparemment à Bourgogne,1 050 000 DH,Casablanca,"Appartements, à vendre",1,2,1,77,https://www.avito.ma/fr/bourgogne/appartements/Apparemment_%C3%A0_Bourgogne__55628649.htm
+Location Studio à Palmier courte durée merveilleux,500 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/palmier/locations_de_vacances/Location_Studio_%C3%A0_Palmier_courte_dur%C3%A9e_merveilleux_55435559.htm
+Appartement Meublé à Louer - 92m²,13 000 DH,Casablanca,A louer,1,NaN,NaN,95,https://www.avito.ma/fr/gauthier/appartements/Appartement_Meubl%C3%A9_%C3%A0_Louer___92m%C2%B2_55721245.htm
+Luxe appartement o centre,500 DH /Nuit,Mohammedia,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/centre_ville/locations_de_vacances/Luxe_appartement_o_centre__52367880.htm
+Appartement de 151m² en centre de Tanger à vendre,1 850 000 DH,Tanger,"Appartements, à vendre",1,3,NaN,151,https://www.avito.ma/fr/centre/appartements/Appartement_de_151m%C2%B2_en_centre_de_Tanger_%C3%A0_vendre_55724915.htm
+Très propre appartement avec wifi et clim,400 DH /Nuit,Agadir,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/hay_salam/locations_de_vacances/Tr%C3%A8s_propre_appartement_avec_wifi_et_clim_25049219.htm
+Appartement à louer 100 m² à Fès,350 DH /Nuit,Fès,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/route_ain_chkaf/locations_de_vacances/Appartement_%C3%A0_louer_100_m%C2%B2_%C3%A0_F%C3%A8s_55268156.htm
+Appartement à vendre 59 m² à hay el quods Oujda,550 000 DH,Oujda,"Appartements, à vendre",NaN,3,1,59,https://www.avito.ma/fr/hay_el_qods/appartements/Appartement_%C3%A0_vendre_59_m%C2%B2_%C3%A0_hay_el_quods_Oujda_53542799.htm
+Appartement avec belle vue a louer a Prestigia,10 000 DH,Rabat,A louer,1,NaN,NaN,98,https://www.avito.ma/fr/hay_riad/appartements/Appartement_avec_belle_vue_a_louer_a_Prestigia_55247830.htm
+Appartement de haut standing à Maârif,500 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/vi/54166647.htm
+Résidence Premium à Kénitra,850 000 DH,Kénitra,"Appartements, à vendre",1,2,2,80,https://www.avito.ma/vi/52157216.htm
+Appartement à vendre 100 m² à haddada,680 000 DH,Kénitra,"Appartements, à vendre",1,3,1,100,https://www.avito.ma/fr/el_haddada/appartements/Appartement_%C3%A0_vendre_100_m%C2%B2_%C3%A0_haddada_55550623.htm
+terrain a vendre zone immeuble avec commerce,1 100 000 DH,Mediouna,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/mediouna/terrains_et_fermes/terrain_a_vendre_zone_immeuble_avec_commerce__55704377.htm
+Appartement à vendre à BenTachfine à Casa,820 000 DH,Casablanca,"Appartements, à vendre",1,2,1,91,https://www.avito.ma/fr/belv%C3%A9d%C3%A8re/appartements/Appartement_%C3%A0_vendre_%C3%A0_BenTachfine_%C3%A0_Casa_54962980.htm
+Appartement 3 Chambres avec 2 Terrasses,6 000 DH,El Mansouria,A louer,1,NaN,NaN,138,https://www.avito.ma/fr/el_mansouria/appartements/Appartement_3_Chambres_avec_2_Terrasses___55708716.htm
+apparemment à louer à essaouira ( résidence ),Prix Non Specifié,Essaouira,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/centre_ville/locations_de_vacances/apparemment_%C3%A0_louer_%C3%A0_essaouira____r%C3%A9sidence___55335715.htm
+Apparemment 150m a louer par jour,200 DH /Nuit,Errachidia,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/errachidia/locations_de_vacances/Apparemment_150m_a_louer_par_jour_53969555.htm
+Appat à diar Al mansour,Prix Non Specifié,Temara,"Appartements, à vendre",1,NaN,NaN,50,https://www.avito.ma/fr/autre_secteur/appartements/Appat_%C3%A0__diar_Al_mansour__48835916.htm
+Bel Appartement 3CH 120 m² à Californie,6 500 DH,Casablanca,A louer,1,NaN,NaN,120,https://www.avito.ma/fr/californie/appartements/Bel_Appartement_3CH_120_m%C2%B2_%C3%A0_Californie_55610356.htm
+Appartement à vendre 68m² à Bouznika,490 000 DH,Bouznika,"Appartements, à vendre",1,2,1,68,https://www.avito.ma/fr/autre_secteur/appartements/Appartement_%C3%A0_vendre_68m%C2%B2_%C3%A0_Bouznika_53254155.htm
+Appartement prix 11000 métres c,1 350 000 DH,Marrakech,"Appartements, à vendre",1,2,1,119,https://www.avito.ma/fr/gu%C3%A9liz/appartements/Appartement_prix_11000_m%C3%A9tres_c_55718355.htm
+des appart bien propre,300 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/des_appart_bien_propre__55519600.htm
+propre apprt pour les familles a fes,200 DH /Nuit,Fès,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/route_ain_chkaf/locations_de_vacances/propre_apprt_pour_les_familles_a_fes_55724894.htm
+Appartement meublé au centre-ville,300 DH /Nuit,Kénitra,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/maamora/locations_de_vacances/Appartement_meubl%C3%A9_au_centre_ville__55533154.htm
+Appartement à louer 174 m² à El Mansouria,15 000 DH,El Mansouria,A louer,3,NaN,NaN,174,https://www.avito.ma/fr/el_mansouria/appartements/Appartement_%C3%A0_louer_174_m%C2%B2_%C3%A0_El_Mansouria_55627302.htm
+Appartement 95 m²à louer vide à Gueliz Marrakech,5 500 DH,Marrakech,A louer,1,NaN,NaN,95,https://www.avito.ma/fr/gu%C3%A9liz/appartements/Appartement_95_m%C2%B2%C3%A0_louer__vide_%C3%A0_Gueliz_Marrakech_55605009.htm
+Appartement familiale à centre ville,249 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/centre_ville/locations_de_vacances/Appartement_familiale_%C3%A0_centre_ville__55724890.htm
+Joli Appartement à vendre 150 m² à Kénitra,960 000 DH,Kénitra,"Appartements, à vendre",2,3,2,150,https://www.avito.ma/fr/autre_secteur/appartements/Joli_Appartement_%C3%A0_vendre_150_m%C2%B2_%C3%A0_K%C3%A9nitra_55641099.htm
+Vente Appartement Wifak Témara,1 800 000 DH,Rabat,"Appartements, à vendre",1,3,2,130,https://www.avito.ma/fr/autre_secteur/appartements/Vente_Appartement_Wifak_T%C3%A9mara_55449535.htm
+appartement meublée pour location,350 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/centre_ville/locations_de_vacances/appartement_meubl%C3%A9e_pour_location__55680519.htm
+appartement meublé à louer pour les familles,250 DH /Nuit,Fès,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/ain_amiyer/locations_de_vacances/appartement_meubl%C3%A9_%C3%A0_louer_pour_les_familles__53999305.htm
+Un appartement Calme Guilez Marrakech S//17,300 DH,Marrakech,A louer,1,NaN,NaN,66,https://www.avito.ma/fr/gu%C3%A9liz/appartements/Un_appartement_Calme_Guilez_Marrakech_S__17_55723193.htm
+Des Appartement neuf à vendre partir 71 m² skikina,680 000 DH,Temara,"Appartements, à vendre",2,1,1,71,https://www.avito.ma/fr/skikina/appartements/Des_Appartement_neuf_%C3%A0_vendre_partir_71_m%C2%B2_skikina_55705964.htm
+"Appartement neuf, meublé situé a Benani,",Prix Non Specifié,El Jadida,A louer,1,NaN,NaN,100,https://www.avito.ma/fr/autre_secteur/appartements/Appartement_neuf__meubl%C3%A9_situ%C3%A9_a_Benani__55717145.htm
+Appartement 2 chambres salon centre de Guiliz,1 000 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/Appartement_2_chambres_salon_centre_de_Guiliz__55647860.htm
+Appartement à vendre 78 m² à Marrakech,Prix Non Specifié,Marrakech,"Appartements, à vendre",1,NaN,NaN,78,https://www.avito.ma/fr/gu%C3%A9liz/appartements/Appartement_%C3%A0_vendre_78_m%C2%B2_%C3%A0_Marrakech_53243419.htm
+Joli appartement 3 chambres vide Neuf,6 000 DH,Marrakech,A louer,1,NaN,NaN,100,https://www.avito.ma/fr/hay_charaf/appartements/Joli_appartement_3_chambres_vide_Neuf__55695580.htm
+Apparemment meublé en rez-de-chaussée,Prix Non Specifié,Oujda,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/centre_ville/locations_de_vacances/Apparemment_meubl%C3%A9_en_rez_de_chauss%C3%A9e__54212694.htm
+Appartement à louer à harhoura,12 500 DH,Temara,A louer,1,NaN,NaN,140,https://www.avito.ma/fr/harhoura/villas_et_riads/Appartement_%C3%A0_louer_%C3%A0_harhoura_55107608.htm
+Appartement Vacances centre Fès,Prix Non Specifié,Fès,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/centre/locations_de_vacances/Appartement_Vacances_centre_F%C3%A8s_54850697.htm
+En location apart avec piscine,300 DH /Nuit,Agadir,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/hay_mohammadi/locations_de_vacances/En_location_apart_avec_piscine__54964166.htm
+Appartement à vendre 88 m² à Casablanca,830 000 DH,Casablanca,"Appartements, à vendre",1,2,1,88,https://www.avito.ma/fr/sidi_bernoussi/appartements/Appartement_%C3%A0_vendre_88_m%C2%B2_%C3%A0_Casablanca_54641524.htm
+appartement meublé,250 DH /Nuit,Fès,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/route_d'immouzere/locations_de_vacances/appartement_meubl%C3%A9__52963229.htm
+Appartement à vendre,650 000 DH,Casablanca,"Appartements, à vendre",1,2,1,60,https://www.avito.ma/fr/a%C3%AFn_chock/appartements/Appartement_%C3%A0_vendre_55644536.htm
+Appartement à louer sur Souissi Orangeraie,28 000 DH,Rabat,A louer,2,NaN,NaN,250,https://www.avito.ma/fr/souissi/appartements/Appartement_%C3%A0_louer_sur_Souissi_Orangeraie_55618740.htm
+Appartement meublé a 300m du lycée Charcot,Prix Non Specifié,El Jadida,A louer,1,NaN,NaN,100,https://www.avito.ma/fr/centre/appartements/Appartement_meubl%C3%A9_a_300m_du_lyc%C3%A9e_Charcot_55717179.htm
+Appartement à Maarif Quartier des hôpitaux,600 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/vi/52959892.htm
+Appartement à louer pour vos vacances,Prix Non Specifié,Agadir,A louer,1,NaN,NaN,70,https://www.avito.ma/vi/53731627.htm
+appartement très propre avec wifi,250 DH /Nuit,Agadir,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/hay_salam/locations_de_vacances/appartement__tr%C3%A8s_propre_avec_wifi_51807298.htm
+Appartement économique a Ben Allah,225 000 DH,El Jadida,"Appartements, à vendre",1,2,1,52,https://www.avito.ma/fr/autre_secteur/appartements/Appartement_%C3%A9conomique_a_Ben_Allah_55689473.htm
+Appartement,Prix Non Specifié,Tanger,"Appartements, à vendre",1,NaN,NaN,97,https://www.avito.ma/fr/moulay_youssef/appartements/Appartement__55724875.htm
+Appartement à louer 63 m² à Marrakech,Prix Non Specifié,Marrakech,A louer,1,NaN,NaN,63,https://www.avito.ma/fr/hay_izdihar/appartements/Appartement_%C3%A0_louer_63_m%C2%B2_%C3%A0_Marrakech_55579409.htm
+Appartement a Agadir,640 000 DH,Agadir,"Appartements, à vendre",1,2,2,80,https://www.avito.ma/fr/abattoirs/appartements/Appartement_a_Agadir_55205719.htm
+Appartements à vendre Agadir,8 000 DH,Agadir,"Appartements, à vendre",1,2,2,80,https://www.avito.ma/fr/abattoirs/appartements/Appartements_%C3%A0_vendre__Agadir_55224924.htm
+شقة مفروشة للكراء اليومي العائلات بدون وسيط Wi-Fi,250 DH /Nuit,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/hay_hassani/locations_de_vacances/%D8%B4%D9%82%D8%A9_%D9%85%D9%81%D8%B1%D9%88%D8%B4%D8%A9_%D9%84%D9%84%D9%83%D8%B1%D8%A7%D8%A1_%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A_%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA_%D8%A8%D8%AF%D9%88%D9%86_%D9%88%D8%B3%D9%8A%D8%B7_Wi_Fi_54131222.htm
+belle appartement à vendre,400 000 DH,Salé,"Appartements, à vendre",1,2,1,60,https://www.avito.ma/fr/sakani/appartements/belle_appartement_%C3%A0_vendre__55724869.htm
+Climatisé شقة مفروشة عائلية بدون سمسار,300 DH /Nuit,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/marjane/locations_de_vacances/Climatis%C3%A9_%D8%B4%D9%82%D8%A9_%D9%85%D9%81%D8%B1%D9%88%D8%B4%D8%A9_%D8%B9%D8%A7%D8%A6%D9%84%D9%8A%D8%A9_%D8%A8%D8%AF%D9%88%D9%86_%D8%B3%D9%85%D8%B3%D8%A7%D8%B1_54130500.htm
+Joli appartement 2 chambres meublé Mabrouka,4 500 DH,Marrakech,A louer,1,NaN,NaN,60,https://www.avito.ma/fr/mabrouka/appartements/Joli_appartement_2_chambres_meubl%C3%A9_Mabrouka__55709383.htm
+Appartement à vendre 64 m² à Hay Izdihar Marrakech,560 000 DH,Marrakech,"Appartements, à vendre",1,2,2,64,https://www.avito.ma/fr/hay_izdihar/appartements/Appartement_%C3%A0_vendre_64_m%C2%B2_%C3%A0_Hay_Izdihar_Marrakech_55561350.htm
+Appartement à vendre 38 m² à Marrakech,608 000 DH,Marrakech,"Appartements, à vendre",1,1,1,38,https://www.avito.ma/fr/route_de_casablanca/appartements/Appartement_%C3%A0_vendre_38_m%C2%B2_%C3%A0_Marrakech_55636187.htm
+Appartement à Louer - Boulevard Abdelmoumen,8 000 DH,Casablanca,A louer,1,NaN,NaN,124,https://www.avito.ma/fr/abdelmoumen/appartements/_Appartement_%C3%A0_Louer___Boulevard_Abdelmoumen_55721162.htm
+Appartement à vendre 97 m² à Casablanca,1 440 000 DH,Casablanca,"Appartements, à vendre",1,2,1,97,https://www.avito.ma/fr/beaus%C3%A9jour/appartements/Appartement_%C3%A0_vendre_97_m%C2%B2_%C3%A0_Casablanca_55702357.htm
+Chic appartement en plein centre ville à louer,6 800 DH,Tanger,A louer,1,NaN,NaN,77,https://www.avito.ma/fr/centre_ville/appartements/Chic_appartement_en_plein_centre_ville_%C3%A0_louer_54987015.htm
+Appartement 74 m² à Fès,350 DH /Nuit,Fès,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/centre/locations_de_vacances/Appartement_74_m%C2%B2_%C3%A0_F%C3%A8s_53538352.htm
+appart proche de la gare,300 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/appart_proche_de_la_gare__55712361.htm
+appartement meublé à louer,5 500 DH,Casablanca,A louer,1,NaN,NaN,60,https://www.avito.ma/fr/belv%C3%A9d%C3%A8re/appartements/appartement_meubl%C3%A9_%C3%A0_louer__55724842.htm
+appartement propre acote la gar a,400 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/appartement_propre_acote_la_gar_a_55724841.htm
+bel apprt côté la gare TGV,300 DH /Nuit,Kénitra,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/maamora/locations_de_vacances/bel_apprt_c%C3%B4t%C3%A9_la_gare_TGV__55574498.htm
+Appartement à louer 50 m² à Marrakech,5 000 DH,Marrakech,A louer,1,NaN,NaN,50,https://www.avito.ma/fr/gu%C3%A9liz/appartements/Appartement_%C3%A0_louer_50_m%C2%B2_%C3%A0_Marrakech_54376471.htm
+APPART A LOYER/ RES AMIRAL SALE ALJADIDA,5 700 DH,Salé,A louer,1,NaN,NaN,94,https://www.avito.ma/fr/sala_el_jadida/appartements/APPART_A_LOYER__RES_AMIRAL_SALE_ALJADIDA_55724847.htm
+appartement avendre Olfa Farah salam,270 000 DH,Casablanca,"Appartements, à vendre",1,1,1,50,https://www.avito.ma/fr/oulfa/appartements/appartement_avendre_Olfa_Farah_salam__55724845.htm
+Appartement à vendre 132 m² à rond point d'Europe,1 400 000 DH,Casablanca,"Appartements, à vendre",1,3,2,132,https://www.avito.ma/fr/mers_sultan/appartements/Appartement_%C3%A0_vendre_132_m%C2%B2_%C3%A0_rond_point_d_Europe__55724843.htm
+Bel appartement 3 chambres non meublé,7 500 DH,Marrakech,A louer,1,NaN,NaN,89,https://www.avito.ma/fr/el_ghoul/appartements/Bel_appartement_3_chambres_non_meubl%C3%A9__55688615.htm
+appartement au bord de la mer tanger,570 DH /Nuit,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/malabata/locations_de_vacances/appartement_au_bord_de_la_mer_tanger_54222359.htm
+Appartement à louer 142 m² à Casablanca,12 800 DH,Casablanca,A louer,1,NaN,NaN,142,https://www.avito.ma/fr/ferme_bretone/appartements/Appartement_%C3%A0_louer_142_m%C2%B2_%C3%A0_Casablanca_55712894.htm
+Appartement haut standing à victoria bouskoura,Prix Non Specifié,Casablanca,"Appartements, à vendre",1,NaN,NaN,119,https://www.avito.ma/fr/autre_secteur/appartements/Appartement_haut_standing_%C3%A0_victoria_bouskoura_55579379.htm
+Appartement à vendre 90 m² à Kénitra,630 000 DH,Kénitra,"Appartements, à vendre",2,3,2,90,https://www.avito.ma/fr/seyad/appartements/Appartement_%C3%A0_vendre_90_m%C2%B2_%C3%A0_K%C3%A9nitra_55617263.htm
+Appartement bureau à louer 140m2,7 000 DH,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/ahlane/bureaux/Appartement_bureau_%C3%A0_louer_140m2_55724839.htm
+Propre appart 5 min a gueliz 2 chambres i,250 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/Propre_appart_5_min_a_gueliz_2_chambres_i_49779711.htm
+appartement sans intermédiaire,200 DH /Nuit,El Jadida,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/centre/locations_de_vacances/appartement_sans_interm%C3%A9diaire__55724829.htm
+Appartement de Luxe Meublé Avec Wi-Fi et Piscine,300 DH /Nuit,Agadir,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/hay_mohammadi/locations_de_vacances/Appartement_de_Luxe_Meubl%C3%A9_Avec_Wi_Fi_et_Piscine_55724825.htm
+appartement 2 chambres salon,3 500 DH,Casablanca,A louer,1,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/sidi_maarouf/appartements/appartement_2_chambres_salon__54910976.htm
+Bel appartement 2 façades,540 000 DH,Kénitra,"Appartements, à vendre",2,2,2,85,https://www.avito.ma/fr/autre_secteur/appartements/Bel_appartement_2_fa%C3%A7ades__55641064.htm
+Appartement à vendre au Quartier Wilaya Tetouan,1 650 000 DH,Tétouan,"Appartements, à vendre",2,3,2,175,https://www.avito.ma/vi/54017003.htm
+Charmant Appartement a Maârif,500 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/vi/54166672.htm
+appartement a vendre acote macdo route de casa,960 000 DH,Marrakech,"Appartements, à vendre",2,3,2,130,https://www.avito.ma/fr/gu%C3%A9liz/appartements/appartement_a_vendre_acote_macdo_route_de_casa__55708780.htm
+joli appartement meublé avec ascenseur,4 000 DH,Casablanca,A louer,2,NaN,NaN,88,https://www.avito.ma/fr/sidi_maarouf/appartements/joli_appartement_meubl%C3%A9_avec_ascenseur__55724819.htm
+Magnifique appartement 85m² à alliance mehdia,480 000 DH,Kénitra,"Appartements, à vendre",2,2,2,85,https://www.avito.ma/fr/autre_secteur/appartements/Magnifique_appartement_85m%C2%B2_%C3%A0_alliance_mehdia__55556564.htm
+appartement à louer Essaouira,Prix Non Specifié,Essaouira,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/centre_ville/locations_de_vacances/appartement_%C3%A0_louer_Essaouira__55196254.htm
+Appartement 57 m² à Casablanca,4 300 DH,Casablanca,A louer,1,NaN,NaN,57,https://www.avito.ma/fr/californie/appartements/Appartement__57_m%C2%B2_%C3%A0_Casablanca_53294834.htm
+Appartement prestigieux à Bourgogne Courte durée,550 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/bourgogne/locations_de_vacances/Appartement_prestigieux_%C3%A0_Bourgogne_Courte_dur%C3%A9e_54346725.htm
+شقة مطلة على البحر وسط المدينة بدون سمسار,500 DH /Nuit,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/malabata/locations_de_vacances/%D8%B4%D9%82%D8%A9_%D9%85%D8%B7%D9%84%D8%A9_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1_%D9%88%D8%B3%D8%B7_%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A8%D8%AF%D9%88%D9%86_%D8%B3%D9%85%D8%B3%D8%A7%D8%B1__54450439.htm
+Appartement à vendre 110 m² à Kénitra,730 000 DH,Kénitra,"Appartements, à vendre",2,3,2,110,https://www.avito.ma/fr/autre_secteur/appartements/Appartement_%C3%A0_vendre_110_m%C2%B2_%C3%A0_K%C3%A9nitra_55617253.htm
+"Appartement Haut Standig à vendre, Roches Noires",1 600 000 DH,Casablanca,"Appartements, à vendre",1,2,2,109,https://www.avito.ma/fr/roches_noires/appartements/Appartement_Haut_Standig_%C3%A0_vendre__Roches_Noires_55724805.htm
+Appartement à vendre 80 m² à rue de rabat,4 500 000 DH,Tanger,"Appartements, à vendre",1,2,1,80,https://www.avito.ma/fr/autre_secteur/appartements/Appartement_%C3%A0_vendre_80_m%C2%B2_%C3%A0_rue_de_rabat__55636097.htm
+appartement meublée pour location,400 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/allal_el_fassi/locations_de_vacances/appartement_meubl%C3%A9e_pour_location__55680409.htm
+Appartement à vendre à Alcudia Smir,1 350 000 DH,Fnideq,"Appartements, à vendre",1,3,2,113,https://www.avito.ma/fr/fnideq/appartements/Appartement_%C3%A0_vendre_%C3%A0_Alcudia_Smir_55708734.htm
+CMN-HA-1350 - Appartement à vendre à Beauséjour,1 800 000 DH,Casablanca,"Appartements, à vendre",NaN,3,2,157,https://www.avito.ma/fr/beaus%C3%A9jour/appartements/CMN_HA_1350___Appartement_%C3%A0_vendre_%C3%A0_Beaus%C3%A9jour_54617270.htm
+Appartement à vendre 94 m² à Casablanca,1 020 000 DH,Casablanca,"Appartements, à vendre",1,2,2,94,https://www.avito.ma/fr/belv%C3%A9d%C3%A8re/appartements/Appartement_%C3%A0_vendre_94_m%C2%B2_%C3%A0_Casablanca_55712939.htm
+Appartement situé dans une maison de ville ☀️,1 180 000 DH,Kénitra,"Appartements, à vendre",2,3,2,160,https://www.avito.ma/fr/autre_secteur/appartements/Appartement_situ%C3%A9_dans_une_maison_de_ville______55617316.htm
+Joli Appartement de 82m très bien agencé à Tanger,770 000 DH,Tanger,"Appartements, à vendre",1,3,1,82,https://www.avito.ma/fr/moujahidine/appartements/Joli_Appartement_de_82m_tr%C3%A8s_bien_agenc%C3%A9_%C3%A0_Tanger_55724796.htm
+Appartement Meublé à louer,10 350 DH,Casablanca,A louer,2,NaN,NaN,132,https://www.avito.ma/fr/beaus%C3%A9jour/appartements/Appartement_Meubl%C3%A9_%C3%A0_louer__55647823.htm
+apparemment Bouznika,449 000 DH,Bouznika,"Appartements, à vendre",1,2,1,74,https://www.avito.ma/fr/autre_secteur/appartements/apparemment_Bouznika__55724788.htm
+Appartement familiale,Prix Non Specifié,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/centre_ville/locations_de_vacances/Appartement_familiale__55724787.htm
+Appartement à vendre 101 m² à Tanger,8 500 DH,Tanger,"Appartements, à vendre",1,3,2,101,https://www.avito.ma/fr/centre_ville/appartements/Appartement_%C3%A0_vendre_101_m%C2%B2_%C3%A0_Tanger_55724785.htm
+Joli appartement meublé à Tanger,230 DH /Nuit,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/autre_secteur/locations_de_vacances/Joli_appartement_meubl%C3%A9_%C3%A0_Tanger__55724784.htm
+appartement à louer Essaouira,200 DH /Nuit,Essaouira,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/centre_ville/locations_de_vacances/appartement_%C3%A0_louer_Essaouira__55217098.htm
+Á louer splendide appartement de 3 ch-palmier,9 000 DH,Casablanca,A louer,1,NaN,NaN,125,https://www.avito.ma/fr/palmier/appartements/%C3%81_louer_splendide_appartement_de_3_ch_palmier_55695942.htm
+Appartement à vendre 60 m² à Casablanca,750 000 DH,Casablanca,"Appartements, à vendre",1,2,1,60,https://www.avito.ma/fr/ben_ejdia/appartements/Appartement_%C3%A0_vendre_60_m%C2%B2_%C3%A0_Casablanca_55683704.htm
+appartement à louer à Tanger,7 500 DH,Tanger,"Appartements, à vendre",1,2,2,78,https://www.avito.ma/fr/malabata/appartements/appartement_%C3%A0_louer_%C3%A0_Tanger_55721110.htm
+Appartement haut standing au Racine,500 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/racine/locations_de_vacances/Appartement_haut_standing_au_Racine_55157403.htm
+appart 5 min de carre eden,300 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/appart_5_min_de_carre_eden__55712364.htm
+Appartement à vendre 100 m² à Dar Bouazza,Prix Non Specifié,Dar Bouazza,"Appartements, à vendre",1,NaN,NaN,100,https://www.avito.ma/fr/dar_bouazza/appartements/Appartement_%C3%A0_vendre_100_m%C2%B2_%C3%A0_Dar_Bouazza_54833290.htm
+CMN-MA-1736 - Appartement à louer à Racine,8 500 DH,Casablanca,A louer,NaN,NaN,NaN,48,https://www.avito.ma/fr/racine/appartements/CMN_MA_1736___Appartement_%C3%A0_louer_%C3%A0_Racine_55628718.htm
+jolie appartement meublé mdiq,Prix Non Specifié,Mdiq,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/mdiq/locations_de_vacances/jolie_appartement_meubl%C3%A9_mdiq__55724769.htm
+appartement luxueux mdiq,Prix Non Specifié,Mdiq,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/mdiq/locations_de_vacances/appartement_luxueux_mdiq__55724768.htm
+CMN-SI-1647 - Appartement à vendre à Gauthier,1 600 000 DH,Casablanca,"Appartements, à vendre",NaN,2,2,102,https://www.avito.ma/fr/gauthier/appartements/CMN_SI_1647___Appartement_%C3%A0_vendre_%C3%A0_Gauthier_55623653.htm
+Appartement à vendre 58 m² à El Jadida,200 000 DH,El Jadida,"Appartements, à vendre",1,2,1,58,https://www.avito.ma/fr/autre_secteur/appartements/Appartement_%C3%A0_vendre_58_m%C2%B2_%C3%A0_El_Jadida__55717055.htm
+Appartement de vacances meublé,300 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/hay_targa/locations_de_vacances/Appartement_de_vacances_meubl%C3%A9_54423573.htm
+Apart résidence Costa mar,350 DH /Nuit,Martil,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/martil/locations_de_vacances/Apart_r%C3%A9sidence_Costa_mar_53174151.htm
+Fantastique Appartement Face à La plage Wi-Fi,250 DH /Nuit,Essaouira,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/vi/55705804.htm
+Appartement avec magnifique view,350 DH /Nuit,Rabat,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/vi/55607125.htm
+Apt 3Chambres ensoleillé emplacement idéal/Twin C,1 350 000 DH,Casablanca,"Appartements, à vendre",1,3,1,120,https://www.avito.ma/fr/gauthier/appartements/Apt_3Chambres_ensoleill%C3%A9_emplacement_id%C3%A9al_Twin_C_55186688.htm
+Appartement à louer 70m² à Casablanca maarif,5 000 DH,Casablanca,A louer,1,NaN,NaN,70,https://www.avito.ma/fr/maarif/appartements/Appartement_%C3%A0_louer_70m%C2%B2_%C3%A0_Casablanca_maarif__55687987.htm
+Appartement à vendre 106m² 5 min à Hay Riad,1 680 000 DH,Temara,"Appartements, à vendre",1,3,2,106,https://www.avito.ma/fr/riad_oulad_mtaa/appartements/Appartement_%C3%A0_vendre_106m%C2%B2_5_min_%C3%A0_Hay_Riad__55708529.htm
+Appartement meublé à louer Belvédère à Casablanca,7 000 DH,Casablanca,A louer,1,NaN,NaN,120,https://www.avito.ma/fr/roches_noires/appartements/Appartement_meubl%C3%A9_%C3%A0_louer_Belv%C3%A9d%C3%A8re_%C3%A0_Casablanca_55627650.htm
+appartement meublé a louer,Prix Non Specifié,Fès,A louer,2,NaN,NaN,80,https://www.avito.ma/fr/agdal/appartements/appartement_meubl%C3%A9_a_louer_55208569.htm
+Appartement 3 chambres salon 135m2,890 000 DH,Kénitra,"Appartements, à vendre",2,3,3,135,https://www.avito.ma/fr/bir_rami/appartements/Appartement_3_chambres_salon_135m2__54610481.htm
+appartement meublé au centre ville prés da plage,7 500 DH,Tanger,A louer,1,NaN,NaN,80,https://www.avito.ma/fr/malabata/appartements/appartement_meubl%C3%A9_au_centre_ville_pr%C3%A9s_da_plage__55712966.htm
+Appartement à louer 320 m² à Rabat,23 000 DH,Rabat,A louer,2,NaN,NaN,170,https://www.avito.ma/fr/souissi/appartements/Appartement_%C3%A0_louer_320_m%C2%B2_%C3%A0_Rabat_55572204.htm
+foncier 543679/r,Prix Non Specifié,Salé,"Appartements, à vendre",1,NaN,NaN,60,https://www.avito.ma/fr/sakani/appartements/foncier_543679_r_55724756.htm
+un joli appartement meublé à hassan,11 000 DH,Rabat,A louer,1,NaN,NaN,130,https://www.avito.ma/fr/hassan/villas_et_riads/un_joli_appartement_meubl%C3%A9_%C3%A0_hassan_55684794.htm
+Appartement à louer Par Mois à Cabo Negro,Prix Non Specifié,Cabo Negro,A louer,1,NaN,NaN,61,https://www.avito.ma/fr/cabo_negro/appartements/Appartement_%C3%A0_louer_Par_Mois_%C3%A0_Cabo_Negro_55622349.htm
+Appartement à vendre 78 m² à Kénitra,560 000 DH,Kénitra,"Appartements, à vendre",2,2,2,78,https://www.avito.ma/fr/bir_rami_ouest/appartements/Appartement_%C3%A0_vendre_78_m%C2%B2_%C3%A0_K%C3%A9nitra_55643432.htm
+Appartement à vendre 80 m² à Mohammedia,1 000 000 DH,Mohammedia,"Appartements, à vendre",2,2,2,80,https://www.avito.ma/fr/wafa/appartements/Appartement_%C3%A0_vendre_80_m%C2%B2_%C3%A0_Mohammedia_55323851.htm
+Appartement meublé avec terrasse à hassan,8 000 DH,Rabat,A louer,2,NaN,NaN,120,https://www.avito.ma/fr/hassan/appartements/Appartement_meubl%C3%A9_avec_terrasse_%C3%A0_hassan_54435847.htm
+Appartement à louer Orangeraies Souissi,16 000 DH,Rabat,A louer,1,NaN,NaN,120,https://www.avito.ma/fr/souissi/appartements/Appartement_%C3%A0_louer_Orangeraies_Souissi_55107011.htm
+location appartement meublé mdiq,Prix Non Specifié,Mdiq,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/mdiq/locations_de_vacances/location_appartement_meubl%C3%A9_mdiq__55724752.htm
+Apt 132M² très Propre avec Terrasse Mosquée Badr,1 555 000 DH,Casablanca,"Appartements, à vendre",2,2,2,132,https://www.avito.ma/fr/bourgogne/appartements/Apt_132M%C2%B2_tr%C3%A8s_Propre_avec_Terrasse_Mosqu%C3%A9e_Badr_55194738.htm
+Appartement à louer 120 m² à Tanger,4 500 DH,Tanger,A louer,1,NaN,NaN,120,https://www.avito.ma/fr/centre/appartements/Appartement_%C3%A0_louer_120_m%C2%B2_%C3%A0_Tanger_55724745.htm
+Appartement meublé de 100 m² à louer sur Hassan,Prix Non Specifié,Rabat,A louer,1,NaN,NaN,100,https://www.avito.ma/fr/hassan/appartements/Appartement_meubl%C3%A9_de_100_m%C2%B2_%C3%A0_louer_sur_Hassan_55601512.htm
+Appartement à louer 68 m² à Mohammedia,5 000 DH,Mohammedia,A louer,1,NaN,NaN,68,https://www.avito.ma/fr/quartier_du_parc/appartements/Appartement_%C3%A0_louer_68_m%C2%B2_%C3%A0_Mohammedia_55467994.htm
+Appartement à louer 90 m² à Marrakech,1 200 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/av_mohammed_vi/locations_de_vacances/Appartement_%C3%A0_louer_90_m%C2%B2_%C3%A0_Marrakech_54603479.htm
+Appartement vacances vue piscine à La Palmeraie,800 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/palmeraie/locations_de_vacances/Appartement_vacances_vue_piscine_%C3%A0_La_Palmeraie_52553433.htm
+Appartement à vendre 108 m² à Kénitra,980 000 DH,Kénitra,"Appartements, à vendre",1,3,2,108,https://www.avito.ma/fr/la_ville_haute/appartements/Appartement_%C3%A0_vendre_108_m%C2%B2_%C3%A0_K%C3%A9nitra_55266960.htm
+Joli Appartement neuf pour vos vacances,500 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/av_abdelkrim_el_khattabi/locations_de_vacances/Joli_Appartement_neuf_pour_vos_vacances_53427045.htm
+location appartement luxe sur corniche malabata,350 DH /Nuit,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/malabata/locations_de_vacances/location_appartement_luxe_sur_corniche_malabata_55365024.htm
+Appartement à louer 74 m² à Rabat,4 500 DH,Rabat,A louer,1,NaN,NaN,74,https://www.avito.ma/fr/guich_oudaya/appartements/Appartement_%C3%A0_louer_74_m%C2%B2_%C3%A0_Rabat_55716963.htm
+Appartement à louer à AMSERNATE Agadir,5 000 DH,Agadir,A louer,1,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/amsernate/appartements/Appartement_%C3%A0_louer_%C3%A0_AMSERNATE__Agadir_55415832.htm
+Appartement meublé Marrakech 92m avec terrasse,6 500 DH,Marrakech,A louer,1,NaN,NaN,75,https://www.avito.ma/fr/av_abdelkrim_el_khattabi/appartements/Appartement_meubl%C3%A9_Marrakech_92m_avec_terrasse_55680287.htm
+Magnifique appartement avec trois chambres,5 000 DH,Tanger,A louer,1,NaN,NaN,115,https://www.avito.ma/fr/mesnana/appartements/Magnifique_appartement_avec_trois_chambres__55724746.htm
+appartement meublé Location,5 000 DH,Casablanca,A louer,1,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/sidi_maarouf/appartements/appartement_meubl%C3%A9_Location__54891190.htm
+Propre appartement familiale,500 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/av_abdelkrim_el_khattabi/locations_de_vacances/Propre_appartement_familiale__55689026.htm
+Appartement luxueux 2 chambre proche de la plage,450 DH /Nuit,El Jadida,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/corniche/locations_de_vacances/Appartement_luxueux_2_chambre__proche_de_la_plage__55506273.htm
+Appartement meublé avec vue Mer,18 000 DH,Dar Bouazza,A louer,2,NaN,NaN,175,https://www.avito.ma/fr/dar_bouazza/appartements/Appartement_meubl%C3%A9_avec_vue_Mer_55301265.htm
+COUP DE CŒUR À AGDAL appart neuf de 96 m²,1 750 000 DH,Rabat,"Appartements, à vendre",0,1,0,96,https://www.avito.ma/vi/55711920.htm
+Appartement à vendre 55 m² à Casablanca,1 300 000 DH,Casablanca,"Appartements, à vendre",1,1,1,55,https://www.avito.ma/vi/55669975.htm
+appartement haut standing 211 m2,3 200 000 DH,Sidi Bouknadel,"Appartements, à vendre",3,4,3,211,https://www.avito.ma/fr/sidi_bouknadel/appartements/appartement_haut_standing_211_m2_53043682.htm
+Appartement à louer 160 m² à Rabat,20 000 DH,Rabat,A louer,1,NaN,NaN,160,https://www.avito.ma/fr/souissi/appartements/Appartement_%C3%A0_louer_160_m%C2%B2_%C3%A0_Rabat_55572274.htm
+appartement au bord de mer,500 DH /Nuit,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/malabata/locations_de_vacances/appartement_au_bord_de_mer_55279725.htm
+location appartement avec piscine vue sur mer,600 DH /Nuit,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/centre_ville/locations_de_vacances/location_appartement_avec_piscine_vue_sur_mer__55287313.htm
+Apt neuf jamais habité H-Standing Maarif Extension,7 500 DH,Casablanca,A louer,1,NaN,NaN,90,https://www.avito.ma/fr/maarif/appartements/Apt_neuf_jamais_habit%C3%A9_H_Standing_Maarif_Extension_54414458.htm
+Très bel apt meublé sécurisé oliveri maarif,9 500 DH,Casablanca,A louer,2,NaN,NaN,130,https://www.avito.ma/fr/maarif/appartements/Tr%C3%A8s_bel_apt_meubl%C3%A9_s%C3%A9curis%C3%A9__oliveri_maarif__54286666.htm
+Bel Appartement 3Chambres A La Vente Sur Guéliz,2 500 000 DH,Marrakech,"Appartements, à vendre",1,3,2,110,https://www.avito.ma/fr/gu%C3%A9liz/appartements/Bel_Appartement_3Chambres_A_La_Vente_Sur_Gu%C3%A9liz_55658171.htm
+Appartement à vendre 104 m² à Kénitra,730 000 DH,Kénitra,"Appartements, à vendre",1,2,2,104,https://www.avito.ma/fr/bir_rami/appartements/Appartement_%C3%A0_vendre_104_m%C2%B2_%C3%A0_K%C3%A9nitra_55712953.htm
+Matériels Professionnels à Casablanca,Prix Non Specifié,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/a%C3%AFn_chock/mat%C3%A9riel_de_bureau/Mat%C3%A9riels_Professionnels_%C3%A0_Casablanca_53078082.htm
+Appartement meublé bien èquipè,300 DH /Nuit,Kénitra,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/mimosas/locations_de_vacances/Appartement_meubl%C3%A9_bien_%C3%A8quip%C3%A8__55452209.htm
+joli appartement à centre de guéliz,300 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/joli_appartement_%C3%A0_centre_de_gu%C3%A9liz_55191561.htm
+Appartement à vendre 102 m² à Nouaceur,877 200 DH,Nouaceur,"Appartements, à vendre",1,3,2,102,https://www.avito.ma/fr/nouaceur/appartements/Appartement_%C3%A0_vendre_102_m%C2%B2_%C3%A0_Nouaceur_55499152.htm
+Appartement 118 m² à Kénitra,1 145 000 DH,Kénitra,"Appartements, à vendre",2,3,2,118,https://www.avito.ma/fr/bir_rami/appartements/Appartement_118_m%C2%B2_%C3%A0_K%C3%A9nitra_53304370.htm
+Appartement à vendre 131 m² à Marrakech,1 900 000 DH,Marrakech,"Appartements, à vendre",1,3,2,131,https://www.avito.ma/fr/route_de_casablanca/appartements/Appartement_%C3%A0_vendre_131_m%C2%B2_%C3%A0_Marrakech_54926500.htm
+Superbe Appart Pour Vacances Prestigia vue piscine,1 000 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/agdal/locations_de_vacances/Superbe_Appart_Pour_Vacances_Prestigia_vue_piscine_53024485.htm
+Appartement meublé à louer 95 m² à Mohammedia,4 999 DH,Mohammedia,A louer,1,NaN,NaN,95,https://www.avito.ma/fr/centre_ville/appartements/Appartement_meubl%C3%A9_%C3%A0_louer_95_m%C2%B2_%C3%A0_Mohammedia_55720973.htm
+appart meublé familiale sans intermédiaire Wi-Fi,200 DH /Nuit,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/marjane/locations_de_vacances/appart_meubl%C3%A9_familiale_sans_interm%C3%A9diaire_Wi_Fi__54131806.htm
+Appartement à vendre 85m² à Marrakech,1 600 000 DH,Marrakech,"Appartements, à vendre",1,2,1,85,https://www.avito.ma/fr/gu%C3%A9liz/appartements/Appartement_%C3%A0_vendre_85m%C2%B2_%C3%A0_Marrakech_54855511.htm
+Appartement à vendre 88 m² à Marrakech,980 000 DH,Marrakech,"Appartements, à vendre",1,3,2,88,https://www.avito.ma/fr/daoudiate/appartements/Appartement_%C3%A0_vendre_88_m%C2%B2_%C3%A0_Marrakech_52958747.htm
+Appartement à louer 90 m² à El Jadida,5 000 DH,El Jadida,A louer,1,NaN,NaN,90,https://www.avito.ma/fr/autre_secteur/appartements/Appartement_%C3%A0_louer_90_m%C2%B2_%C3%A0_El_Jadida_55724739.htm
+bel appartement à louer,5 000 DH,Casablanca,A louer,1,NaN,NaN,68,https://www.avito.ma/fr/roches_noires/appartements/bel_appartement_%C3%A0_louer_55384500.htm
+Élégant Appartement à 5 min du Lycée Descartes,11 000 DH,Rabat,A louer,3,NaN,NaN,180,https://www.avito.ma/fr/haut_agdal/appartements/%C3%89l%C3%A9gant_Appartement__%C3%A0_5_min_du_Lyc%C3%A9e_Descartes_55355931.htm
+Appartement Hamria ex terrain yazidi,900 000 DH,Meknès,"Appartements, à vendre",2,3,2,125,https://www.avito.ma/fr/hamria/appartements/Appartement_Hamria_ex_terrain_yazidi_55724734.htm
+Appartement à louer meublé 70 m² à Casablanca,4 200 DH,Casablanca,A louer,1,NaN,NaN,70,https://www.avito.ma/fr/a%C3%AFn_chock/appartements/Appartement_%C3%A0_louer_meubl%C3%A9_70_m%C2%B2_%C3%A0_Casablanca_55697286.htm
+Appartement à vendre 50 m² à Marrakech,875 000 DH,Marrakech,"Appartements, à vendre",1,2,2,36,https://www.avito.ma/fr/route_de_safi/appartements/Appartement_%C3%A0_vendre_50_m%C2%B2_%C3%A0_Marrakech_55086530.htm
+* Appartement * à vendre 121 m² à HADJ FATAH Oulfa,1 200 000 DH,Casablanca,"Appartements, à vendre",1,3,2,121,https://www.avito.ma/fr/oulfa/appartements/__Appartement___%C3%A0_vendre_121_m%C2%B2_%C3%A0_HADJ_FATAH_Oulfa_55675806.htm
+Appartement de vacances a gueliz,310 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/Appartement_de_vacances_a_gueliz__55713255.htm
+Appartement à vendre 132 m² à Marrakech,1 850 000 DH,Marrakech,"Appartements, à vendre",1,3,2,132,https://www.avito.ma/fr/semlalia/appartements/Appartement_%C3%A0_vendre_132_m%C2%B2_%C3%A0_Marrakech_55088160.htm
+location journaliere,Prix Non Specifié,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/maarif/locations_de_vacances/location_journaliere_55604622.htm
+Appartement à louer 175 m² à Rabat,20 000 DH,Rabat,A louer,2,NaN,NaN,175,https://www.avito.ma/fr/hay_riad/appartements/Appartement_%C3%A0_louer_175_m%C2%B2_%C3%A0_Rabat_55593609.htm
+Appartement à vendre 281 m² à Casablanca,3 650 000 DH,Casablanca,"Appartements, à vendre",4,4,3,281,https://www.avito.ma/fr/quartier_des_h%C3%B4pitaux/appartements/Appartement_%C3%A0_vendre_281_m%C2%B2_%C3%A0_Casablanca_53301329.htm
+Joli appartement meublé en location,4 000 DH,Tanger,A louer,1,NaN,NaN,70,https://www.avito.ma/fr/mesnana/appartements/Joli_appartement_meubl%C3%A9_en_location__55724730.htm
+Luxury Appartement La Corniche Rabat - Essabah,890 DH /Nuit,Rabat,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/hay_riad/locations_de_vacances/Luxury_Appartement_La_Corniche_Rabat___Essabah_55321191.htm
+Joli appartement neuf en location,3 300 DH,Tanger,A louer,1,NaN,NaN,60,https://www.avito.ma/fr/autre_secteur/appartements/Joli_appartement_neuf_en_location__55724729.htm
+Luxury Appartement La Corniche Rabat - Essabah,850 DH /Nuit,Rabat,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/vi/55713764.htm
+Appartement à vendre 88 m² à Marrakech,680 000 DH,Marrakech,"Appartements, à vendre",1,2,1,88,https://www.avito.ma/vi/55665578.htm
+Très bel apt 3chambres Résidence Sécurisée Busway,840 000 DH,Casablanca,"Appartements, à vendre",2,3,2,84,https://www.avito.ma/fr/hay_hassani/appartements/Tr%C3%A8s_bel_apt_3chambres_R%C3%A9sidence_S%C3%A9curis%C3%A9e_Busway_54992417.htm
+Apt Meublé H-Standing/Ensoleillé/Tram Beauséjour,10 000 DH,Casablanca,A louer,2,NaN,NaN,120,https://www.avito.ma/fr/centre_ville/appartements/Apt_Meubl%C3%A9_H_Standing_Ensoleill%C3%A9_Tram_Beaus%C3%A9jour_55140542.htm
+Appartement à louer à 2Mars Casa,6 500 DH,Casablanca,A louer,1,NaN,NaN,90,https://www.avito.ma/fr/2_mars/appartements/Appartement_%C3%A0_louer_%C3%A0_2Mars__Casa_54965698.htm
+location de vacances tanger,380 DH /Nuit,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/malabata/locations_de_vacances/location_de_vacances_tanger_55607924.htm
+Appartement à louer 160 m² à Casablanca,7 800 DH,Casablanca,A louer,2,NaN,NaN,160,https://www.avito.ma/fr/riviera/appartements/Appartement_%C3%A0_louer_160_m%C2%B2_%C3%A0_Casablanca_55712862.htm
+Appartement bien équipé à louer par nuit,250 DH /Nuit,Agadir,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/hay_salam/locations_de_vacances/Appartement_bien_%C3%A9quip%C3%A9_%C3%A0_louer_par_nuit__54896087.htm
+Appartement à vendre 54 m² à Casablanca,500 000 DH,Casablanca,"Appartements, à vendre",1,2,1,54,https://www.avito.ma/fr/oulfa/appartements/Appartement_%C3%A0_vendre_54_m%C2%B2_%C3%A0_Casablanca_54903537.htm
+Appartement standing 3 ch r plus 2,4 500 DH,El Jadida,A louer,2,NaN,NaN,110,https://www.avito.ma/fr/autre_secteur/appartements/Appartement_standing_3_ch_r_plus_2_55502712.htm
+Appartement neuf à Témara square,8 000 DH,Temara,A louer,1,NaN,NaN,110,https://www.avito.ma/fr/centre_ville/appartements/Appartement_neuf__%C3%A0_T%C3%A9mara_square_55496885.htm
+Appartement Meublé à OLABLANCA 2,350 DH /Nuit,Sidi Rahal,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/sidi_rahal/locations_de_vacances/Appartement_Meubl%C3%A9_%C3%A0_OLABLANCA_2_38955987.htm
+Projet D'Appartements Sur Route De Casablanca,960 000 DH,Marrakech,"Appartements, à vendre",1,2,1,80,https://www.avito.ma/fr/route_de_casablanca/appartements/Projet_D_Appartements_Sur_Route_De_Casablanca_55325981.htm
+un joli appartement meublé neuf à Hassan,8 500 DH,Rabat,A louer,1,NaN,NaN,80,https://www.avito.ma/fr/hassan/appartements/un_joli_appartement_meubl%C3%A9_neuf_%C3%A0_Hassan__55494793.htm
+appartement classe équipé moderne à Centre ville,199 DH /Nuit,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/malabata/locations_de_vacances/appartement_classe_%C3%A9quip%C3%A9_moderne_%C3%A0_Centre_ville__54875998.htm
+appartement meublé riad oulfa,3 500 DH,Casablanca,A louer,1,NaN,NaN,50,https://www.avito.ma/fr/oulfa/appartements/appartement_meubl%C3%A9_riad_oulfa_55712899.htm
+appartement prestigia,1 100 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/agdal/locations_de_vacances/appartement__prestigia_51635358.htm
+Appartement De Standing À Louer À La Journée,600 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/av_abdelkrim_el_khattabi/locations_de_vacances/Appartement_De_Standing_%C3%80_Louer_%C3%80_La_Journ%C3%A9e_54838503.htm
+appartement meublé à agdal,9 000 DH,Rabat,A louer,2,NaN,NaN,120,https://www.avito.ma/fr/agdal/appartements/appartement_meubl%C3%A9_%C3%A0_agdal_54438075.htm
+Appartement bien équipé a Marrakech,400 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/Appartement_bien_%C3%A9quip%C3%A9_a_Marrakech__55144720.htm
+Appartement F4 à 2 minutes de la gare de Kénitra,1 100 000 DH,Kénitra,"Appartements, à vendre",1,3,1,110,https://www.avito.ma/fr/maamora/appartements/Appartement_F4_%C3%A0_2_minutes_de_la_gare_de_K%C3%A9nitra_55307688.htm
+Appartement de 110 m² au centre ville de M'diq,850 000 DH,Mdiq,"Appartements, à vendre",1,3,2,110,https://www.avito.ma/fr/mdiq/appartements/Appartement_de_110_m%C2%B2_au_centre_ville_de_M_diq_55613892.htm
+appart meublé familial sans intermédiaire Wi-Fi,200 DH /Nuit,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/tanger_city_center/locations_de_vacances/appart_meubl%C3%A9_familial_sans_interm%C3%A9diaire_Wi_Fi_54883148.htm
+Appartement A ain sbaa,350 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/ain_sebaa/locations_de_vacances/Appartement_A_ain_sbaa_54016810.htm
+Appartement à louer 168 m² à Rabat,14 000 DH,Rabat,A louer,2,NaN,NaN,168,https://www.avito.ma/fr/hay_riad/appartements/Appartement_%C3%A0_louer_168_m%C2%B2_%C3%A0_Rabat_55587214.htm
+Appartement vide standing parking,Prix Non Specifié,El Jadida,A louer,1,NaN,NaN,115,https://www.avito.ma/fr/autre_secteur/appartements/Appartement_vide_standing_parking_55674404.htm
+Appartement à vendre 118 m² à Kénitra,Prix Non Specifié,Kénitra,"Appartements, à vendre",1,NaN,NaN,118,https://www.avito.ma/fr/mimosas/appartements/Appartement_%C3%A0_vendre_118_m%C2%B2_%C3%A0_K%C3%A9nitra_55626628.htm
+appartement meublée,400 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/allal_el_fassi/locations_de_vacances/appartement_meubl%C3%A9e__55684772.htm
+appartement sans vis a vis à près de la gare,5 000 DH,Kénitra,A louer,2,NaN,NaN,118,https://www.avito.ma/fr/maamora/appartements/appartement_sans_vis_a_vis_%C3%A0_pr%C3%A8s_de_la_gare__54681620.htm
+Villa dans le prestigieux quartier Nawrass,5 500 000 DH,Dar Bouazza,A louer,4,5,3,504,https://www.avito.ma/fr/dar_bouazza/villas_et_riads/Villa_dans_le_prestigieux_quartier_Nawrass__55397941.htm
+appartement meublé par jour,300 DH /Nuit,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/zemmouri/locations_de_vacances/appartement_meubl%C3%A9_par_jour_45657081.htm
+Appartement à louer 50 m² à Pristigia,7 500 DH,Rabat,A louer,1,NaN,NaN,50,https://www.avito.ma/fr/hay_riad/appartements/Appartement_%C3%A0_louer_50_m%C2%B2_%C3%A0_Pristigia__55700968.htm
+Appartement à vendre 96 m² à Rabat,1 850 000 DH,Rabat,"Appartements, à vendre",2,2,2,96,https://www.avito.ma/fr/mabella/appartements/Appartement_%C3%A0_vendre_96_m%C2%B2_%C3%A0_Rabat_55149848.htm
+Appartement 13 près acima GUELIZ MARRAKECH,300 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/Appartement_13_pr%C3%A8s_acima_GUELIZ_MARRAKECH__55710919.htm
+Appartement,350 DH /Nuit,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/malabata/locations_de_vacances/Appartement__55700963.htm
+Appartement à vendre à Hay Riad Rabat,2 780 000 DH,Rabat,"Appartements, à vendre",1,3,2,140,https://www.avito.ma/fr/hay_riad/appartements/Appartement_%C3%A0_vendre_%C3%A0_Hay_Riad_Rabat__55693194.htm
+Moderne Appartement à louer pour vacances LDV488,Prix Non Specifié,Agadir,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/vi/54273546.htm
+Appartement à vendre 44 m² à Casablanca,864 000 DH,Casablanca,"Appartements, à vendre",1,1,1,44,https://www.avito.ma/vi/55449791.htm
+appartement meublé à louer longue durée,4 000 DH,Marrakech,A louer,1,NaN,NaN,64,https://www.avito.ma/fr/route_de_casablanca/appartements/appartement_meubl%C3%A9_%C3%A0_louer_longue_dur%C3%A9e__51386667.htm
+Chic & Cozy Studio WIFI Centre Ville Super Propre,450 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/bourgogne/locations_de_vacances/Chic___Cozy_Studio_WIFI_Centre_Ville_Super_Propre_51951490.htm
+Appart meublé 3 chambres salon à louer Prestigia,15 000 DH,Marrakech,A louer,1,NaN,NaN,100,https://www.avito.ma/fr/av_mohammed_vi/appartements/Appart_meubl%C3%A9_3_chambres_salon_%C3%A0_louer_Prestigia__55165308.htm
+Apt/132M²/Très Sécurisé/Moderne/Mosquée Badr,1 555 000 DH,Casablanca,"Appartements, à vendre",2,2,2,132,https://www.avito.ma/fr/racine/appartements/Apt_132M%C2%B2_Tr%C3%A8s_S%C3%A9curis%C3%A9_Moderne_Mosqu%C3%A9e_Badr_55043928.htm
+vente appartement,Prix Non Specifié,Temara,"Appartements, à vendre",1,NaN,NaN,61,https://www.avito.ma/fr/ain_atig/appartements/vente_appartement__55724718.htm
+شقق للكراء اليومي,230 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/oulfa/locations_de_vacances/%D8%B4%D9%82%D9%82_%D9%84%D9%84%D9%83%D8%B1%D8%A7%D8%A1_%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A_54540737.htm
+Belle appartement au centre de fes,250 DH /Nuit,Fès,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/ain_amiyer/locations_de_vacances/Belle_appartement_au_centre_de_fes__53437614.htm
+Appartement vue sur la rue meublée a louer,5 500 DH,Marrakech,A louer,1,NaN,NaN,98,https://www.avito.ma/fr/hay_izdihar/appartements/Appartement_vue_sur_la_rue_meubl%C3%A9e_a_louer_55665043.htm
+Appartement à vendre 46 m² à Casablanca,1 150 000 DH,Casablanca,"Appartements, à vendre",1,1,1,46,https://www.avito.ma/fr/bourgogne/appartements/Appartement_%C3%A0_vendre_46_m%C2%B2_%C3%A0_Casablanca_55635862.htm
+Appartement à vendre 115 m² à Kénitra,750 000 DH,Kénitra,"Appartements, à vendre",2,3,3,115,https://www.avito.ma/fr/bir_rami/appartements/Appartement_%C3%A0_vendre_115_m%C2%B2_%C3%A0_K%C3%A9nitra_55152349.htm
+Apt meublé H-Standing 3Ch/Sécurisé/Gauthier,10 000 DH,Casablanca,A louer,2,NaN,NaN,140,https://www.avito.ma/fr/anfa/appartements/Apt_meubl%C3%A9_H_Standing_3Ch_S%C3%A9curis%C3%A9_Gauthier_53797062.htm
+Appartement usage de bureau Belvdère Casa,7 000 DH,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/belv%C3%A9d%C3%A8re/bureaux/Appartement_usage_de_bureau_Belvd%C3%A8re_Casa_54158002.htm
+Appartement à louer 157 m² à Rabat Haut Agdal,15 500 DH,Rabat,A louer,1,NaN,NaN,157,https://www.avito.ma/fr/haut_agdal/appartements/Appartement_%C3%A0_louer_157_m%C2%B2_%C3%A0_Rabat_Haut_Agdal_55693231.htm
+Appartement à louer 85 m² à Casablanca,7 300 DH,Casablanca,A louer,1,NaN,NaN,85,https://www.avito.ma/fr/maarif/appartements/Appartement_%C3%A0_louer_85_m%C2%B2_%C3%A0_Casablanca_55644357.htm
+appartement bien à vendre Hay Salam,790 000 DH,Agadir,"Appartements, à vendre",1,3,2,77,https://www.avito.ma/fr/hay_salam/appartements/appartement_bien_%C3%A0_vendre_Hay_Salam_55724708.htm
+Appartement à Marina Blanca,1 700 000 DH,Dar Bouazza,"Appartements, à vendre",1,2,2,98,https://www.avito.ma/fr/dar_bouazza/appartements/Appartement_%C3%A0_Marina_Blanca_54401684.htm
+Appartement longue durée à Meghogha,2 700 DH,Tanger,A louer,1,NaN,NaN,60,https://www.avito.ma/fr/mghogha/appartements/Appartement_longue_dur%C3%A9e_%C3%A0_Meghogha__55602852.htm
+Appartement à louer 60 m² à Casablanca,5 500 DH,Casablanca,A louer,1,NaN,NaN,60,https://www.avito.ma/fr/bourgogne/appartements/Appartement_%C3%A0_louer_60_m%C2%B2_%C3%A0_Casablanca_55712804.htm
+Appartement Moderne Residence,250 DH /Nuit,Essaouira,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/centre_ville/locations_de_vacances/Appartement_Moderne_Residence__55196790.htm
+Rez-de-jardin sur Darb,3 200 000 DH,Dar Bouazza,"Appartements, à vendre",1,3,2,147,https://www.avito.ma/fr/dar_bouazza/appartements/Rez_de_jardin_sur_Darb_55469139.htm
+Apt très haut standing côté palais saoudien,1 350 000 DH,Casablanca,"Appartements, à vendre",1,3,2,130,https://www.avito.ma/fr/sidi_maarouf/appartements/Apt_tr%C3%A8s_haut_standing__c%C3%B4t%C3%A9__palais_saoudien____53841047.htm
+Appartement F2 meublé Riad Salam AGADIR.,4 500 DH,Agadir,A louer,1,NaN,NaN,62,https://www.avito.ma/fr/riad_salam/appartements/Appartement_F2_meubl%C3%A9_Riad_Salam_AGADIR__55549883.htm
+joli appartement meublé à louer à Hay mohammadi,200 DH /Nuit,Agadir,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/hay_mohammadi/locations_de_vacances/joli_appartement_meubl%C3%A9_%C3%A0_louer_%C3%A0_Hay_mohammadi__54569389.htm
+bel appartement,4 700 DH,Rabat,A louer,0,NaN,NaN,45,https://www.avito.ma/fr/hay_riad/appartements/bel_appartement_55642103.htm
+Très bel appartement ds une résidence fermée,2 100 000 DH,Dar Bouazza,"Appartements, à vendre",4,3,3,155,https://www.avito.ma/fr/dar_bouazza/appartements/Tr%C3%A8s_bel_appartement_ds_une_r%C3%A9sidence_ferm%C3%A9e__53115147.htm
+appartement la journée centre ville gueliz wifi,400 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/appartement_la_journ%C3%A9e_centre_ville_gueliz_wifi_53230920.htm
+Appartement à vendre 82 m² à Agadir,1 400 000 DH,Agadir,"Appartements, à vendre",1,2,2,82,https://www.avito.ma/fr/haut_founty/appartements/Appartement_%C3%A0_vendre_82_m%C2%B2_%C3%A0_Agadir_55689195.htm
+Appartement à vendre Roche Noire à Casa,950 000 DH,Casablanca,"Appartements, à vendre",1,2,2,107,https://www.avito.ma/fr/roches_noires/appartements/Appartement_%C3%A0_vendre_Roche_Noire_%C3%A0_Casa_54837844.htm
+Appartement à louer sur Hay Riad,12 000 DH,Rabat,A louer,2,NaN,NaN,180,https://www.avito.ma/fr/hay_riad/appartements/Appartement_%C3%A0_louer_sur_Hay_Riad_55589929.htm
+Appartement à gueliz,300 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/Appartement_%C3%A0_gueliz__55365570.htm
+appartement pour location vacance,1 500 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/av_mohammed_vi/locations_de_vacances/appartement_pour_location_vacance_54852373.htm
+Appartement à vendre 75 m² à Bouskoura,600 000 DH,Bouskoura,"Appartements, à vendre",1,3,2,75,https://www.avito.ma/fr/bouskoura_centre/appartements/Appartement_%C3%A0_vendre_75_m%C2%B2_%C3%A0_Bouskoura_55184979.htm
+appartement calme par jour centre guéliz wifi,400 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/appartement_calme_par_jour_centre_gu%C3%A9liz_wifi_53719272.htm
+Appartement style Riad,2 650 000 DH,Rabat,"Appartements, à vendre",3,2,3,145,https://www.avito.ma/vi/55659298.htm
+Appartement à vendre 83 m² à Bouskoura,790 000 DH,Bouskoura,"Appartements, à vendre",1,2,83,83,https://www.avito.ma/vi/53111879.htm
+Appartement à louer 60 m² à Casablanca,5 500 DH,Casablanca,A louer,1,NaN,NaN,60,https://www.avito.ma/fr/bourgogne/appartements/Appartement_%C3%A0_louer_60_m%C2%B2_%C3%A0_Casablanca_55712804.htm
+Appartement Moderne Residence,250 DH /Nuit,Essaouira,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/centre_ville/locations_de_vacances/Appartement_Moderne_Residence__55196790.htm
+Rez-de-jardin sur Darb,3 200 000 DH,Dar Bouazza,"Appartements, à vendre",1,3,2,147,https://www.avito.ma/fr/dar_bouazza/appartements/Rez_de_jardin_sur_Darb_55469139.htm
+Apt très haut standing côté palais saoudien,1 350 000 DH,Casablanca,"Appartements, à vendre",1,3,2,130,https://www.avito.ma/fr/sidi_maarouf/appartements/Apt_tr%C3%A8s_haut_standing__c%C3%B4t%C3%A9__palais_saoudien____53841047.htm
+Appartement F2 meublé Riad Salam AGADIR.,4 500 DH,Agadir,A louer,1,NaN,NaN,62,https://www.avito.ma/fr/riad_salam/appartements/Appartement_F2_meubl%C3%A9_Riad_Salam_AGADIR__55549883.htm
+joli appartement meublé à louer à Hay mohammadi,200 DH /Nuit,Agadir,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/hay_mohammadi/locations_de_vacances/joli_appartement_meubl%C3%A9_%C3%A0_louer_%C3%A0_Hay_mohammadi__54569389.htm
+bel appartement,4 700 DH,Rabat,A louer,0,NaN,NaN,45,https://www.avito.ma/fr/hay_riad/appartements/bel_appartement_55642103.htm
+Très bel appartement ds une résidence fermée,2 100 000 DH,Dar Bouazza,"Appartements, à vendre",4,3,3,155,https://www.avito.ma/fr/dar_bouazza/appartements/Tr%C3%A8s_bel_appartement_ds_une_r%C3%A9sidence_ferm%C3%A9e__53115147.htm
+appartement la journée centre ville gueliz wifi,400 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/appartement_la_journ%C3%A9e_centre_ville_gueliz_wifi_53230920.htm
+Appartement à vendre 82 m² à Agadir,1 400 000 DH,Agadir,"Appartements, à vendre",1,2,2,82,https://www.avito.ma/fr/haut_founty/appartements/Appartement_%C3%A0_vendre_82_m%C2%B2_%C3%A0_Agadir_55689195.htm
+Appartement à vendre Roche Noire à Casa,950 000 DH,Casablanca,"Appartements, à vendre",1,2,2,107,https://www.avito.ma/fr/roches_noires/appartements/Appartement_%C3%A0_vendre_Roche_Noire_%C3%A0_Casa_54837844.htm
+Appartement à louer sur Hay Riad,12 000 DH,Rabat,A louer,2,NaN,NaN,180,https://www.avito.ma/fr/hay_riad/appartements/Appartement_%C3%A0_louer_sur_Hay_Riad_55589929.htm
+Appartement à gueliz,300 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/Appartement_%C3%A0_gueliz__55365570.htm
+appartement pour location vacance,1 500 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/av_mohammed_vi/locations_de_vacances/appartement_pour_location_vacance_54852373.htm
+Appartement à vendre 75 m² à Bouskoura,600 000 DH,Bouskoura,"Appartements, à vendre",1,3,2,75,https://www.avito.ma/fr/bouskoura_centre/appartements/Appartement_%C3%A0_vendre_75_m%C2%B2_%C3%A0_Bouskoura_55184979.htm
+appartement calme par jour centre guéliz wifi,400 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/appartement_calme_par_jour_centre_gu%C3%A9liz_wifi_53719272.htm
+Appt de Standing ensoleillé sur Rabat-AgdaL,9 000 DH,Rabat,A louer,1,NaN,NaN,85,https://www.avito.ma/fr/agdal/appartements/Appt_de_Standing_ensoleill%C3%A9_sur_Rabat_AgdaL__55709111.htm
+Appartement à louer à 2Mars à Casablanca,6 300 DH,Casablanca,A louer,2,NaN,NaN,115,https://www.avito.ma/fr/2_mars/appartements/Appartement_%C3%A0_louer_%C3%A0_2Mars_%C3%A0__Casablanca_55551782.htm
+Apt Haut-standing 3Chambres 160M/Inwi Bd 2Mars,8 000 DH,Casablanca,A louer,2,NaN,NaN,160,https://www.avito.ma/fr/quartier_des_h%C3%B4pitaux/appartements/Apt_Haut_standing_3Chambres_160M_Inwi_Bd_2Mars_55194395.htm
+Appartement meublé à louer à hay mohammadi Agadir,16 000 DH,Agadir,A louer,1,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/hay_mohammadi/appartements/Appartement_meubl%C3%A9_%C3%A0_louer_%C3%A0_hay_mohammadi_Agadir_55420378.htm
+Appartement à louer 90 m² à Temara,6 000 DH,Temara,A louer,1,NaN,NaN,90,https://www.avito.ma/fr/centre_ville/appartements/Appartement_%C3%A0_louer_90_m%C2%B2_%C3%A0_Temara_55708360.htm
+Appartement à vendre 80 m² à Marrakech,1 200 000 DH,Marrakech,"Appartements, à vendre",1,2,1,80,https://www.avito.ma/fr/route_de_safi/appartements/Appartement_%C3%A0_vendre_80_m%C2%B2_%C3%A0_Marrakech_55600743.htm
+Appt Grand Luxe sur Mer Bourgogne 2ch,590 DH /Nuit,Casablanca,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/bourgogne/locations_de_vacances/Appt_Grand_Luxe_sur_Mer_Bourgogne_2ch_53808115.htm
+Appartement pour votre vacance,350 DH /Nuit,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/marjane/locations_de_vacances/Appartement_pour_votre_vacance_54555952.htm
+Appartement à vendre,Prix Non Specifié,Casablanca,"Appartements, à vendre",1,NaN,NaN,64,https://www.avito.ma/fr/anfa/appartements/Appartement_%C3%A0_vendre_55724703.htm
+location Appartement city ain sebaa,2 500 DH,Casablanca,A louer,1,NaN,NaN,58,https://www.avito.ma/fr/ain_sebaa/appartements/location_Appartement_city_ain_sebaa__55724701.htm
+Appartement à louer 170 m² à Rabat,13 000 DH,Rabat,A louer,1,NaN,NaN,170,https://www.avito.ma/fr/souissi/appartements/Appartement_%C3%A0_louer_170_m%C2%B2_%C3%A0_Rabat_55160342.htm
+appartement haut standing,580 DH /Nuit,Tanger,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/malabata/locations_de_vacances/appartement_haut_standing_55612165.htm
+Appartement 144m² habitable à Jnane Californie,1 980 000 DH,Casablanca,"Appartements, à vendre",1,3,2,144,https://www.avito.ma/fr/californie/appartements/Appartement_144m%C2%B2_habitable_%C3%A0_Jnane_Californie_52349853.htm
+Appartement à louer 170 m² Souissi,18 000 DH,Rabat,A louer,3,NaN,NaN,170,https://www.avito.ma/fr/souissi/appartements/Appartement_%C3%A0_louer_170__m%C2%B2_Souissi__54913669.htm
+Appartement neuf à la journée fraichement meublé.,600 DH /Nuit,Marrakech,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/gu%C3%A9liz/locations_de_vacances/Appartement_neuf_%C3%A0_la_journ%C3%A9e_fraichement_meubl%C3%A9__51321876.htm
+Appartement à vendre 91 m² à Kénitra,660 000 DH,Kénitra,"Appartements, à vendre",2,2,2,91,https://www.avito.ma/fr/bir_rami_ouest/appartements/Appartement_%C3%A0_vendre_91_m%C2%B2_%C3%A0_K%C3%A9nitra_54609919.htm
+Appartement à louer,Prix Non Specifié,Agadir,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/fr/hay_mohammadi/locations_de_vacances/Appartement_%C3%A0_louer_55724696.htm
+Appartement à vendre 81 m² à Dar Bouazza,1 350 000 DH,Dar Bouazza,"Appartements, à vendre",1,2,2,81,https://www.avito.ma/vi/55714260.htm
+Porte blindée villa,Prix Non Specifié,Settat,A louer,NaN,NaN,NaN,SURFACE NON SPECIFIE,https://www.avito.ma/vi/55420182.htm
