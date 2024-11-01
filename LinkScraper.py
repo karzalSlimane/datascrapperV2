@@ -4,7 +4,7 @@ from constants import BASE_URL, WAIT_TIME, LINKS_FILE_PATH
 from WebScraperUtils import WebScraperUtils
 
 class LinkScraper:
-    def __init__(self, produit, nombre_pages=2):
+    def __init__(self, produit, nombre_pages=6):
         self.produit = produit
         self.nombre_pages = nombre_pages
         self.liens = []
