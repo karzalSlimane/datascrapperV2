@@ -1,32 +1,35 @@
-# Licence Éducative et de Protection des Données
+Politique de Confidentialité pour le Projet de Collecte de Données Immobilières sur Avito.ma
+1. Introduction
+Dans le cadre de notre projet d'analyse des données immobilières, nous sommes pleinement engagés à protéger la confidentialité et la sécurité des informations que nous collectons. Cette politique de confidentialité vous informe des types de données que nous recueillons, des raisons de cette collecte et des mesures que nous prenons pour assurer leur sécurité.
 
-## Introduction
-Ce projet est destiné à des fins éducatives. En utilisant ce projet, vous acceptez de respecter les termes de cette licence.
+2. Types de Données Collectées
+Nous ne collectons que des données publiques et non personnelles disponibles sur les annonces immobilières de la plateforme Avito.ma, notamment :
 
-## 1. Permissions
-Vous êtes libre de :
-- Utiliser, copier, modifier, fusionner, publier, distribuer  sous réserve des conditions suivantes.
+Titre de l’annonce
+Prix
+Localisation
+Surface en mètres carrés
+Nombre de chambres et de salles de bain
+Étage
+Année de construction
+Lien de l’annonce
+Nous ne recueillons ni ne conservons de données personnelles telles que les noms, numéros de téléphone ou adresses précises.
 
-## 2. Conditions
-- Toute distribution de ce projet doit inclure cette licence.
-- Les modifications apportées au projet doivent être clairement indiquées.
+3. Finalité de la Collecte des Données
+Les données que nous collectons sont exclusivement destinées à l'analyse des tendances du marché immobilier. Ce projet est de nature académique et n'a aucune finalité commerciale.
 
-## 3. Protection des Données
-Ce projet collecte des données personnelles. En utilisant ce projet, vous acceptez ce qui suit :
-- Les données collectées sont utilisées uniquement dans le cadre des objectifs éducatifs spécifiés.
-- Vous devez informer les utilisateurs de la collecte de leurs données et obtenir leur consentement.
-- Les utilisateurs disposent des droits suivants concernant leurs données personnelles :
-  - Droit d'accès
-  - Droit de rectification
-  - Droit à l'effacement
-  - Droit à la limitation du traitement
-  - Droit à la portabilité des données
-  - Droit d'opposition
+4. Sécurité des Données
+Nous prenons la sécurité des données très au sérieux. Pour ce faire, nous appliquons les meilleures pratiques en matière de sécurité informatique :
 
-## 4. Aucune Garantie
-Ce projet est fourni "tel quel", sans garantie d'aucune sorte, expresse ou implicite. Les auteurs ne sauraient être tenus responsables de tout dommage résultant de l'utilisation de ce projet.
+Stockage des données dans un environnement sécurisé, avec un accès strictement limité.
+Destruction des données à la fin du projet, afin de garantir qu'aucune information ne soit conservée indéfiniment.
+5. Droits des Utilisateurs
+Bien que nous ne collections pas de données personnelles, nous respectons le droit des utilisateurs à la transparence. Toute personne intéressée par notre projet peut nous contacter pour obtenir des informations sur les mesures de conformité mises en place.
 
-## 5. Modifications
-Cette licence peut être modifiée. Les modifications seront notifiées dans le projet.
+6. Modifications de la Politique de Confidentialité
+Cette politique de confidentialité pourrait être mise à jour pour répondre à de nouvelles exigences réglementaires ou technologiques. Nous nous engageons à informer toutes les parties concernées en cas de changements significatifs.
 
+7. Contact
+Pour toute question concernant cette politique de confidentialité, n’hésitez pas à nous contacter à l'adresse suivante :
 
+[adresse e-mail de contact] : skarzaal@gmail.com 
